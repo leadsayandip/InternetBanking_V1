@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="275.355" tests="4" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="webdriver.chrome.driver" value="C:\Windows\system32\config\systemprofile\.cache\selenium\chromedriver\win32\85.0.4183.87\chromedriver.exe"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\WECARE INDUSTRIES\workspace\InternetBanking_V1\target\test-classes;C:\Users\WECARE INDUSTRIES\workspace\InternetBanking_V1\target\classes;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\github\bonigarcia\webdrivermanager\4.2.0\webdrivermanager-4.2.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.0.1\httpclient5-5.0.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.0.1\httpcore5-5.0.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.0.1\httpcore5-h2-5.0.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\rauschig\jarchivelib\1.0.0\jarchivelib-1.0.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\jsoup\jsoup\1.13.1\jsoup-1.13.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\testng\testng\7.1.0\testng-7.1.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\google\inject\guice\4.1.0\guice-4.1.0-no_aop.jar;C:\Windows\system32\config\systemprofile\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\yaml\snakeyaml\1.21\snakeyaml-1.21.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\poi\poi\4.1.2\poi-4.1.2.jar;C:\Windows\system32\config\systemprofile\.m2\repository\commons-codec\commons-codec\1.13\commons-codec-1.13.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\zaxxer\SparseBitSet\1.2\SparseBitSet-1.2.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\poi\poi-ooxml\4.1.2\poi-ooxml-4.1.2.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\poi\poi-ooxml-schemas\4.1.2\poi-ooxml-schemas-4.1.2.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\xmlbeans\xmlbeans\3.1.0\xmlbeans-3.1.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\commons\commons-compress\1.19\commons-compress-1.19.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\github\virtuald\curvesapi\1.06\curvesapi-1.06.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Windows\system32\config\systemprofile\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\logging\log4j\log4j-core\2.13.3\log4j-core-2.13.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\logging\log4j\log4j-api\2.13.3\log4j-api-2.13.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\aventstack\extentreports\5.0.3\extentreports-5.0.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\reactivex\rxjava3\rxjava\3.0.4\rxjava-3.0.4.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\reactivestreams\reactive-streams\1.0.3\reactive-streams-1.0.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\freemarker\freemarker\2.3.30\freemarker-2.3.30.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\projectlombok\lombok\1.18.12\lombok-1.18.12.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.8\bin"/>
+    <property name="sun.java.command" value="C:\Windows\Temp\surefire9932050475780332482\surefirebooter9817611365873902614.jar C:\Windows\Temp\surefire9932050475780332482 2020-09-14T21-44-57_496-jvmRun1 surefire18328532087218212031tmp surefire_07694346473918026742tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\WECARE INDUSTRIES\workspace\InternetBanking_V1\target\test-classes;C:\Users\WECARE INDUSTRIES\workspace\InternetBanking_V1\target\classes;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\github\bonigarcia\webdrivermanager\4.2.0\webdrivermanager-4.2.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.0.1\httpclient5-5.0.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.0.1\httpcore5-5.0.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.0.1\httpcore5-h2-5.0.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\rauschig\jarchivelib\1.0.0\jarchivelib-1.0.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\jsoup\jsoup\1.13.1\jsoup-1.13.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\testng\testng\7.1.0\testng-7.1.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\google\inject\guice\4.1.0\guice-4.1.0-no_aop.jar;C:\Windows\system32\config\systemprofile\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\yaml\snakeyaml\1.21\snakeyaml-1.21.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\poi\poi\4.1.2\poi-4.1.2.jar;C:\Windows\system32\config\systemprofile\.m2\repository\commons-codec\commons-codec\1.13\commons-codec-1.13.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\zaxxer\SparseBitSet\1.2\SparseBitSet-1.2.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\poi\poi-ooxml\4.1.2\poi-ooxml-4.1.2.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\poi\poi-ooxml-schemas\4.1.2\poi-ooxml-schemas-4.1.2.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\xmlbeans\xmlbeans\3.1.0\xmlbeans-3.1.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\commons\commons-compress\1.19\commons-compress-1.19.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\github\virtuald\curvesapi\1.06\curvesapi-1.06.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Windows\system32\config\systemprofile\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\logging\log4j\log4j-core\2.13.3\log4j-core-2.13.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\logging\log4j\log4j-api\2.13.3\log4j-api-2.13.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\aventstack\extentreports\5.0.3\extentreports-5.0.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\reactivex\rxjava3\rxjava\3.0.4\rxjava-3.0.4.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\reactivestreams\reactive-streams\1.0.3\reactive-streams-1.0.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\freemarker\freemarker\2.3.30\freemarker-2.3.30.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\projectlombok\lombok\1.18.12\lombok-1.18.12.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Windows\system32\config\systemprofile"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2020-07-14"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.8"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\WECARE INDUSTRIES\workspace\InternetBanking_V1"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Windows\Temp\surefire9932050475780332482\surefirebooter9817611365873902614.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.8+10-LTS"/>
+    <property name="user.name" value="WECARE$"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="C:\Windows\system32\config\systemprofile\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Windows\TEMP\"/>
+    <property name="java.version" value="11.0.8"/>
+    <property name="user.dir" value="C:\Users\WECARE INDUSTRIES\workspace\InternetBanking_V1"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.8\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\apache-maven-3.6.3/bin;C:\Program Files\Java\jdk-11.0.8/bin;C:\Program Files\Java\jdk-11.0.8/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\Java\jdk1.8.0_251\bin;C:\Users\WECARE INDUSTRIES\Desktop\Testing\apache-ant-1.10.8-bin\apache-ant-1.10.8\bin;C:\apache-maven-3.6.3\bin;C:\allure-commandline-2.13.5\allure-2.13.5\bin;C:\Program Files\Java\jdk-11.0.8\bin;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.8+10-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="LoginTest" classname="com.InternetBanking_V1.testCases.TC_LoginTest_001" time="7.792">
+    <system-out><![CDATA[INFO  | 2020-09-14 21:45:21 | [main] testCases.BaseClass (BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-14 21:45:51 | [main] testCases.BaseClass (BaseClass.java:53) - URL is opened
+INFO  | 2020-09-14 21:45:53 | [main] testCases.BaseClass (BaseClass.java:55) - Browser is maximised
+INFO  | 2020-09-14 21:45:54 | [main] testCases.TC_LoginTest_001 (TC_LoginTest_001.java:26) - Username is entered
+INFO  | 2020-09-14 21:45:54 | [main] testCases.TC_LoginTest_001 (TC_LoginTest_001.java:29) - Password is entered
+INFO  | 2020-09-14 21:46:01 | [main] testCases.TC_LoginTest_001 (TC_LoginTest_001.java:35) - Home Page title is checked
+INFO  | 2020-09-14 21:46:01 | [main] testCases.TC_LoginTest_001 (TC_LoginTest_001.java:36) - Login test is passed
+]]></system-out>
+    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 85.0.4183.87 (cd6713ebf92fa1cacc0f1a598df280093af0c5d7-refs/branch-heads/4183@{#1689}) on port 11153
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Sep 14, 2020 9:45:21 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+  <testcase name="addCustomerTest" classname="com.InternetBanking_V1.testCases.TC_AddCustomerTest_001" time="36.021">
+    <system-out><![CDATA[INFO  | 2020-09-14 21:46:02 | [main] testCases.BaseClass (BaseClass.java:62) - Browser closed successfully
+INFO  | 2020-09-14 21:46:08 | [main] testCases.BaseClass (BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-14 21:46:50 | [main] testCases.BaseClass (BaseClass.java:53) - URL is opened
+INFO  | 2020-09-14 21:46:53 | [main] testCases.BaseClass (BaseClass.java:55) - Browser is maximised
+INFO  | 2020-09-14 21:46:53 | [main] testCases.TC_AddCustomerTest_001 (TC_AddCustomerTest_001.java:16) - Userid given
+INFO  | 2020-09-14 21:46:53 | [main] testCases.TC_AddCustomerTest_001 (TC_AddCustomerTest_001.java:18) - Password given
+INFO  | 2020-09-14 21:47:03 | [main] testCases.TC_AddCustomerTest_001 (TC_AddCustomerTest_001.java:20) - Login Successful
+INFO  | 2020-09-14 21:47:07 | [main] testCases.TC_AddCustomerTest_001 (TC_AddCustomerTest_001.java:24) - Customer details is provided...
+INFO  | 2020-09-14 21:47:07 | [main] testCases.TC_AddCustomerTest_001 (TC_AddCustomerTest_001.java:26) - name given
+INFO  | 2020-09-14 21:47:07 | [main] testCases.TC_AddCustomerTest_001 (TC_AddCustomerTest_001.java:28) - gender given
+INFO  | 2020-09-14 21:47:10 | [main] testCases.TC_AddCustomerTest_001 (TC_AddCustomerTest_001.java:31) - Date of Birth given
+INFO  | 2020-09-14 21:47:10 | [main] testCases.TC_AddCustomerTest_001 (TC_AddCustomerTest_001.java:33) - address given
+INFO  | 2020-09-14 21:47:10 | [main] testCases.TC_AddCustomerTest_001 (TC_AddCustomerTest_001.java:35) - City given
+INFO  | 2020-09-14 21:47:10 | [main] testCases.TC_AddCustomerTest_001 (TC_AddCustomerTest_001.java:37) - State given
+INFO  | 2020-09-14 21:47:10 | [main] testCases.TC_AddCustomerTest_001 (TC_AddCustomerTest_001.java:39) - pincode given
+INFO  | 2020-09-14 21:47:11 | [main] testCases.TC_AddCustomerTest_001 (TC_AddCustomerTest_001.java:42) - mobile number given
+INFO  | 2020-09-14 21:47:11 | [main] testCases.TC_AddCustomerTest_001 (TC_AddCustomerTest_001.java:45) - email id given
+INFO  | 2020-09-14 21:47:11 | [main] testCases.TC_AddCustomerTest_001 (TC_AddCustomerTest_001.java:48) - password given
+INFO  | 2020-09-14 21:47:26 | [main] testCases.TC_AddCustomerTest_001 (TC_AddCustomerTest_001.java:51) - Validation started
+INFO  | 2020-09-14 21:47:29 | [main] testCases.TC_AddCustomerTest_001 (TC_AddCustomerTest_001.java:55) - Customer add test passed..
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 85.0.4183.87 (cd6713ebf92fa1cacc0f1a598df280093af0c5d7-refs/branch-heads/4183@{#1689}) on port 48755
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Sep 14, 2020 9:46:08 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+  <testcase name="editCustomerTest" classname="com.InternetBanking_V1.testCases.TC_EditCustomerTest_001" time="45.137">
+    <system-out><![CDATA[INFO  | 2020-09-14 21:47:30 | [main] testCases.BaseClass (BaseClass.java:62) - Browser closed successfully
+INFO  | 2020-09-14 21:47:34 | [main] testCases.BaseClass (BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-14 21:47:57 | [main] testCases.BaseClass (BaseClass.java:53) - URL is opened
+INFO  | 2020-09-14 21:48:00 | [main] testCases.BaseClass (BaseClass.java:55) - Browser is maximised
+INFO  | 2020-09-14 21:48:00 | [main] testCases.TC_EditCustomerTest_001 (TC_EditCustomerTest_001.java:19) - Username is provided
+INFO  | 2020-09-14 21:48:00 | [main] testCases.TC_EditCustomerTest_001 (TC_EditCustomerTest_001.java:21) - Password is provided
+INFO  | 2020-09-14 21:48:05 | [main] testCases.TC_EditCustomerTest_001 (TC_EditCustomerTest_001.java:23) - Login Successful
+INFO  | 2020-09-14 21:48:13 | [main] testCases.TC_EditCustomerTest_001 (TC_EditCustomerTest_001.java:26) - Edit Customer page is opened
+INFO  | 2020-09-14 21:48:13 | [main] testCases.TC_EditCustomerTest_001 (TC_EditCustomerTest_001.java:28) - Customer ID is provided
+INFO  | 2020-09-14 21:48:35 | [main] testCases.TC_EditCustomerTest_001 (TC_EditCustomerTest_001.java:31) - Edit Customer form is opened
+INFO  | 2020-09-14 21:48:35 | [main] testCases.TC_EditCustomerTest_001 (TC_EditCustomerTest_001.java:33) - Address changed
+INFO  | 2020-09-14 21:48:35 | [main] testCases.TC_EditCustomerTest_001 (TC_EditCustomerTest_001.java:35) - City changed
+INFO  | 2020-09-14 21:48:35 | [main] testCases.TC_EditCustomerTest_001 (TC_EditCustomerTest_001.java:37) - State changed
+INFO  | 2020-09-14 21:48:35 | [main] testCases.TC_EditCustomerTest_001 (TC_EditCustomerTest_001.java:41) - Mobileno changed
+INFO  | 2020-09-14 21:48:35 | [main] testCases.TC_EditCustomerTest_001 (TC_EditCustomerTest_001.java:45) - Email id changed
+INFO  | 2020-09-14 21:48:45 | [main] testCases.TC_EditCustomerTest_001 (TC_EditCustomerTest_001.java:49) - Validation started
+INFO  | 2020-09-14 21:48:45 | [main] testCases.TC_EditCustomerTest_001 (TC_EditCustomerTest_001.java:52) - Customer edit test passed
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 85.0.4183.87 (cd6713ebf92fa1cacc0f1a598df280093af0c5d7-refs/branch-heads/4183@{#1689}) on port 45976
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Sep 14, 2020 9:47:34 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+  <testcase name="deleteCustomerTest" classname="com.InternetBanking_V1.testCases.TC_DeleteCustomerTest_001" time="30.314">
+    <system-out><![CDATA[INFO  | 2020-09-14 21:48:45 | [main] testCases.BaseClass (BaseClass.java:62) - Browser closed successfully
+INFO  | 2020-09-14 21:48:50 | [main] testCases.BaseClass (BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-14 21:49:02 | [main] testCases.BaseClass (BaseClass.java:53) - URL is opened
+INFO  | 2020-09-14 21:49:04 | [main] testCases.BaseClass (BaseClass.java:55) - Browser is maximised
+INFO  | 2020-09-14 21:49:04 | [main] testCases.TC_DeleteCustomerTest_001 (TC_DeleteCustomerTest_001.java:17) - Username is provided
+INFO  | 2020-09-14 21:49:04 | [main] testCases.TC_DeleteCustomerTest_001 (TC_DeleteCustomerTest_001.java:19) - Password is provided
+INFO  | 2020-09-14 21:49:22 | [main] testCases.TC_DeleteCustomerTest_001 (TC_DeleteCustomerTest_001.java:21) - Login Successful
+INFO  | 2020-09-14 21:49:31 | [main] testCases.TC_DeleteCustomerTest_001 (TC_DeleteCustomerTest_001.java:24) - Delete Customer page is opened
+INFO  | 2020-09-14 21:49:31 | [main] testCases.TC_DeleteCustomerTest_001 (TC_DeleteCustomerTest_001.java:26) - Customer ID is provided
+INFO  | 2020-09-14 21:49:31 | [main] testCases.TC_DeleteCustomerTest_001 (TC_DeleteCustomerTest_001.java:31) - alert is accepted
+INFO  | 2020-09-14 21:49:34 | [main] testCases.TC_DeleteCustomerTest_001 (TC_DeleteCustomerTest_001.java:35) - Customer delete test passed..
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 85.0.4183.87 (cd6713ebf92fa1cacc0f1a598df280093af0c5d7-refs/branch-heads/4183@{#1689}) on port 26533
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Sep 14, 2020 9:48:50 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+</testsuite>

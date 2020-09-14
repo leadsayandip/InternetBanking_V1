@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [InternetBanking_V1]">
+  <parameter name="browser" value="chrome"/>
+  <listeners>
+    <listener class-name="com.InternetBanking_V1.utilities.ExtentReportingListener"/>
+  </listeners>
+  <test name="BankingApp Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.InternetBanking_V1.testCases.TC_LoginTest_001">
+        <methods>
+          <include name="LoginTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.InternetBanking_V1.testCases.TC_LoginTest_001 -->
+      <class name="com.InternetBanking_V1.testCases.TC_AddCustomerTest_001">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.InternetBanking_V1.testCases.TC_AddCustomerTest_001 -->
+      <class name="com.InternetBanking_V1.testCases.TC_DeleteCustomerTest_001">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="deleteCustomerTest"/>
+        </methods>
+      </class> <!-- com.InternetBanking_V1.testCases.TC_DeleteCustomerTest_001 -->
+      <class name="com.InternetBanking_V1.testCases.TC_EditCustomerTest_001">
+        <methods>
+          <include name="editCustomerTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.InternetBanking_V1.testCases.TC_EditCustomerTest_001 -->
+    </classes>
+  </test> <!-- BankingApp Test(failed) -->
+</suite> <!-- Failed suite [InternetBanking_V1] -->

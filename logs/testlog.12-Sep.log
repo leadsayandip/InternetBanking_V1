@@ -1,0 +1,121 @@
+INFO  | 2020-09-12 20:52:23 | [main] testCases.BaseClass(BaseClass.java:43) - chromeBrowser started Successfully
+INFO  | 2020-09-12 20:52:39 | [main] testCases.BaseClass(BaseClass.java:46) - URL is opened
+INFO  | 2020-09-12 20:52:42 | [main] testCases.BaseClass(BaseClass.java:48) - Browser is maximised
+INFO  | 2020-09-12 20:52:46 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:14) - Username is entered
+INFO  | 2020-09-12 20:52:46 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:16) - Password is entered
+INFO  | 2020-09-12 20:52:54 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:21) - Login Test is passed
+INFO  | 2020-09-12 20:52:55 | [main] testCases.BaseClass(BaseClass.java:55) - Browser closed successfully
+INFO  | 2020-09-12 20:55:11 | [main] testCases.BaseClass(BaseClass.java:43) - chromeBrowser started Successfully
+INFO  | 2020-09-12 20:55:17 | [main] testCases.BaseClass(BaseClass.java:46) - URL is opened
+INFO  | 2020-09-12 20:55:19 | [main] testCases.BaseClass(BaseClass.java:48) - Browser is maximised
+INFO  | 2020-09-12 20:55:19 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:14) - Username is entered
+INFO  | 2020-09-12 20:55:20 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:16) - Password is entered
+INFO  | 2020-09-12 20:55:21 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:21) - Login Test is passed
+INFO  | 2020-09-12 20:55:27 | [main] testCases.BaseClass(BaseClass.java:55) - Browser closed successfully
+INFO  | 2020-09-12 20:58:50 | [main] testCases.BaseClass(BaseClass.java:43) - chromeBrowser started Successfully
+INFO  | 2020-09-12 20:58:55 | [main] testCases.BaseClass(BaseClass.java:46) - URL is opened
+INFO  | 2020-09-12 20:58:57 | [main] testCases.BaseClass(BaseClass.java:48) - Browser is maximised
+INFO  | 2020-09-12 20:58:57 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:14) - Username is entered
+INFO  | 2020-09-12 20:58:57 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:16) - Password is entered
+INFO  | 2020-09-12 20:59:00 | [main] testCases.BaseClass(BaseClass.java:55) - Browser closed successfully
+INFO  | 2020-09-12 21:09:11 | [main] testCases.BaseClass(BaseClass.java:43) - chromeBrowser started Successfully
+INFO  | 2020-09-12 21:09:27 | [main] testCases.BaseClass(BaseClass.java:46) - URL is opened
+INFO  | 2020-09-12 21:09:29 | [main] testCases.BaseClass(BaseClass.java:48) - Browser is maximised
+INFO  | 2020-09-12 21:09:29 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:14) - Username is entered
+INFO  | 2020-09-12 21:09:29 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:16) - Password is entered
+INFO  | 2020-09-12 21:09:32 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:21) - Login Test is passed
+INFO  | 2020-09-12 21:09:33 | [main] testCases.BaseClass(BaseClass.java:55) - Browser closed successfully
+INFO  | 2020-09-12 21:11:05 | [main] testCases.BaseClass(BaseClass.java:43) - chromeBrowser started Successfully
+INFO  | 2020-09-12 21:11:22 | [main] testCases.BaseClass(BaseClass.java:46) - URL is opened
+INFO  | 2020-09-12 21:11:24 | [main] testCases.BaseClass(BaseClass.java:48) - Browser is maximised
+INFO  | 2020-09-12 21:11:25 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:14) - Username is entered
+INFO  | 2020-09-12 21:11:25 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:16) - Password is entered
+INFO  | 2020-09-12 21:11:28 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:21) - Login Test is passed
+INFO  | 2020-09-12 21:11:29 | [main] testCases.BaseClass(BaseClass.java:55) - Browser closed successfully
+INFO  | 2020-09-12 21:12:49 | [main] testCases.BaseClass(BaseClass.java:43) - chromeBrowser started Successfully
+INFO  | 2020-09-12 21:12:56 | [main] testCases.BaseClass(BaseClass.java:46) - URL is opened
+INFO  | 2020-09-12 21:12:59 | [main] testCases.BaseClass(BaseClass.java:48) - Browser is maximised
+INFO  | 2020-09-12 21:12:59 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:14) - Username is entered
+INFO  | 2020-09-12 21:12:59 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:16) - Password is entered
+INFO  | 2020-09-12 21:13:02 | [main] testCases.BaseClass(BaseClass.java:55) - Browser closed successfully
+INFO  | 2020-09-12 21:24:40 | [main] testCases.BaseClass(BaseClass.java:47) - chromeBrowser started Successfully
+INFO  | 2020-09-12 21:24:44 | [main] testCases.BaseClass(BaseClass.java:50) - URL is opened
+INFO  | 2020-09-12 21:24:46 | [main] testCases.BaseClass(BaseClass.java:52) - Browser is maximised
+INFO  | 2020-09-12 21:24:47 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:14) - Username is entered
+INFO  | 2020-09-12 21:24:47 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:16) - Password is entered
+INFO  | 2020-09-12 21:24:49 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:21) - Login Test is passed
+INFO  | 2020-09-12 21:24:50 | [main] testCases.BaseClass(BaseClass.java:59) - Browser closed successfully
+INFO  | 2020-09-12 21:25:55 | [main] testCases.BaseClass(BaseClass.java:47) - chromeBrowser started Successfully
+INFO  | 2020-09-12 21:26:08 | [main] testCases.BaseClass(BaseClass.java:50) - URL is opened
+INFO  | 2020-09-12 21:26:10 | [main] testCases.BaseClass(BaseClass.java:52) - Browser is maximised
+INFO  | 2020-09-12 21:26:10 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:14) - Username is entered
+INFO  | 2020-09-12 21:26:10 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:16) - Password is entered
+INFO  | 2020-09-12 21:26:15 | [main] testCases.BaseClass(BaseClass.java:59) - Browser closed successfully
+INFO  | 2020-09-12 21:32:45 | [main] testCases.BaseClass(BaseClass.java:47) - chromeBrowser started Successfully
+INFO  | 2020-09-12 21:32:51 | [main] testCases.BaseClass(BaseClass.java:50) - URL is opened
+INFO  | 2020-09-12 21:32:53 | [main] testCases.BaseClass(BaseClass.java:52) - Browser is maximised
+INFO  | 2020-09-12 21:32:53 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:14) - Username is entered
+INFO  | 2020-09-12 21:32:53 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:16) - Password is entered
+INFO  | 2020-09-12 21:32:56 | [main] testCases.BaseClass(BaseClass.java:67) - Screenshot taken
+INFO  | 2020-09-12 21:32:56 | [main] testCases.BaseClass(BaseClass.java:59) - Browser closed successfully
+INFO  | 2020-09-12 21:44:50 | [main] testCases.BaseClass(BaseClass.java:47) - chromeBrowser started Successfully
+INFO  | 2020-09-12 21:45:34 | [main] testCases.BaseClass(BaseClass.java:50) - URL is opened
+INFO  | 2020-09-12 21:45:36 | [main] testCases.BaseClass(BaseClass.java:52) - Browser is maximised
+INFO  | 2020-09-12 21:45:37 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:14) - Username is entered
+INFO  | 2020-09-12 21:45:38 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:16) - Password is entered
+INFO  | 2020-09-12 21:45:43 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:21) - Login Test is passed
+INFO  | 2020-09-12 21:45:54 | [main] testCases.BaseClass(BaseClass.java:59) - Browser closed successfully
+INFO  | 2020-09-12 21:47:50 | [main] testCases.BaseClass(BaseClass.java:47) - chromeBrowser started Successfully
+INFO  | 2020-09-12 21:48:19 | [main] testCases.BaseClass(BaseClass.java:50) - URL is opened
+INFO  | 2020-09-12 21:48:22 | [main] testCases.BaseClass(BaseClass.java:52) - Browser is maximised
+INFO  | 2020-09-12 21:48:22 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:14) - Username is entered
+INFO  | 2020-09-12 21:48:22 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:16) - Password is entered
+INFO  | 2020-09-12 21:48:34 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:21) - Login Test is passed
+INFO  | 2020-09-12 21:48:36 | [main] testCases.BaseClass(BaseClass.java:59) - Browser closed successfully
+INFO  | 2020-09-12 22:13:03 | [main] testCases.BaseClass(BaseClass.java:47) - chromeBrowser started Successfully
+INFO  | 2020-09-12 22:13:25 | [main] testCases.BaseClass(BaseClass.java:50) - URL is opened
+INFO  | 2020-09-12 22:13:27 | [main] testCases.BaseClass(BaseClass.java:52) - Browser is maximised
+INFO  | 2020-09-12 22:13:28 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:14) - Username is entered
+INFO  | 2020-09-12 22:13:28 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:16) - Password is entered
+INFO  | 2020-09-12 22:13:31 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:20) - Home Page title is checked
+INFO  | 2020-09-12 22:13:38 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:31) - Index page title is checked
+INFO  | 2020-09-12 22:13:40 | [main] testCases.BaseClass(BaseClass.java:59) - Browser closed successfully
+INFO  | 2020-09-12 22:15:48 | [main] testCases.BaseClass(BaseClass.java:47) - chromeBrowser started Successfully
+INFO  | 2020-09-12 22:15:57 | [main] testCases.BaseClass(BaseClass.java:50) - URL is opened
+INFO  | 2020-09-12 22:15:59 | [main] testCases.BaseClass(BaseClass.java:52) - Browser is maximised
+INFO  | 2020-09-12 22:15:59 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:14) - Username is entered
+INFO  | 2020-09-12 22:15:59 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:16) - Password is entered
+WARN  | 2020-09-12 22:16:02 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:22) - Login Test is failed
+INFO  | 2020-09-12 22:16:02 | [main] testCases.BaseClass(BaseClass.java:67) - Screenshot taken
+INFO  | 2020-09-12 22:16:03 | [main] testCases.BaseClass(BaseClass.java:59) - Browser closed successfully
+INFO  | 2020-09-12 22:16:58 | [main] testCases.BaseClass(BaseClass.java:47) - chromeBrowser started Successfully
+INFO  | 2020-09-12 22:17:03 | [main] testCases.BaseClass(BaseClass.java:50) - URL is opened
+INFO  | 2020-09-12 22:17:05 | [main] testCases.BaseClass(BaseClass.java:52) - Browser is maximised
+INFO  | 2020-09-12 22:17:05 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:14) - Username is entered
+INFO  | 2020-09-12 22:17:05 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:16) - Password is entered
+INFO  | 2020-09-12 22:17:10 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:20) - Home Page title is checked
+INFO  | 2020-09-12 22:17:10 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:27) - Logout successfully
+INFO  | 2020-09-12 22:17:11 | [main] testCases.BaseClass(BaseClass.java:59) - Browser closed successfully
+INFO  | 2020-09-12 22:20:28 | [main] testCases.BaseClass(BaseClass.java:47) - chromeBrowser started Successfully
+INFO  | 2020-09-12 22:20:32 | [main] testCases.BaseClass(BaseClass.java:50) - URL is opened
+INFO  | 2020-09-12 22:20:34 | [main] testCases.BaseClass(BaseClass.java:52) - Browser is maximised
+INFO  | 2020-09-12 22:20:35 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:14) - Username is entered
+INFO  | 2020-09-12 22:20:35 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:16) - Password is entered
+WARN  | 2020-09-12 22:20:36 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:22) - Login Test is failed
+INFO  | 2020-09-12 22:20:37 | [main] testCases.BaseClass(BaseClass.java:67) - Screenshot taken
+INFO  | 2020-09-12 22:20:39 | [main] testCases.BaseClass(BaseClass.java:59) - Browser closed successfully
+INFO  | 2020-09-12 22:23:37 | [main] testCases.BaseClass(BaseClass.java:47) - chromeBrowser started Successfully
+INFO  | 2020-09-12 22:24:03 | [main] testCases.BaseClass(BaseClass.java:50) - URL is opened
+INFO  | 2020-09-12 22:24:05 | [main] testCases.BaseClass(BaseClass.java:52) - Browser is maximised
+WARN  | 2020-09-12 22:24:05 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:17) - Login Test is failed
+INFO  | 2020-09-12 22:24:05 | [main] testCases.BaseClass(BaseClass.java:67) - Screenshot taken
+INFO  | 2020-09-12 22:24:06 | [main] testCases.BaseClass(BaseClass.java:59) - Browser closed successfully
+INFO  | 2020-09-12 22:24:32 | [main] testCases.BaseClass(BaseClass.java:47) - chromeBrowser started Successfully
+INFO  | 2020-09-12 22:25:18 | [main] testCases.BaseClass(BaseClass.java:50) - URL is opened
+INFO  | 2020-09-12 22:25:20 | [main] testCases.BaseClass(BaseClass.java:52) - Browser is maximised
+INFO  | 2020-09-12 22:25:20 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:14) - Index page title is checked
+INFO  | 2020-09-12 22:25:20 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:22) - Username is entered
+INFO  | 2020-09-12 22:25:20 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:24) - Password is entered
+INFO  | 2020-09-12 22:25:25 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:28) - Home Page title is checked
+INFO  | 2020-09-12 22:25:28 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:35) - Logout successfully
+INFO  | 2020-09-12 22:25:37 | [main] testCases.BaseClass(BaseClass.java:59) - Browser closed successfully

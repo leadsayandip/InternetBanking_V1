@@ -1,0 +1,660 @@
+INFO  | 2020-09-13 01:06:19 | [main] testCases.BaseClass(BaseClass.java:48) - chromeBrowser started Successfully
+INFO  | 2020-09-13 01:06:24 | [main] testCases.BaseClass(BaseClass.java:51) - URL is opened
+INFO  | 2020-09-13 01:06:30 | [main] testCases.BaseClass(BaseClass.java:53) - Browser is maximised
+INFO  | 2020-09-13 01:06:35 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:16) - Userid given
+INFO  | 2020-09-13 01:06:35 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:18) - Password given
+INFO  | 2020-09-13 01:06:37 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:20) - Login Successful
+INFO  | 2020-09-13 01:06:39 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:24) - Customer details is provided...
+INFO  | 2020-09-13 01:06:39 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:26) - name given
+INFO  | 2020-09-13 01:06:39 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:28) - gender given
+INFO  | 2020-09-13 01:06:39 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:30) - Date of Birth given
+INFO  | 2020-09-13 01:06:40 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:32) - ddress given
+INFO  | 2020-09-13 01:06:40 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:34) - City given
+INFO  | 2020-09-13 01:06:40 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:36) - State given
+INFO  | 2020-09-13 01:06:40 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:38) - pincode given
+INFO  | 2020-09-13 01:06:40 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:41) - mobile number given
+INFO  | 2020-09-13 01:06:40 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:44) - email id given
+INFO  | 2020-09-13 01:06:40 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:47) - password given
+INFO  | 2020-09-13 01:06:42 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:50) - Validation started
+INFO  | 2020-09-13 01:06:42 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:53) - Customer added test successful..
+INFO  | 2020-09-13 01:06:45 | [main] testCases.BaseClass(BaseClass.java:60) - Browser closed successfully
+INFO  | 2020-09-13 01:17:10 | [main] testCases.BaseClass(BaseClass.java:48) - chromeBrowser started Successfully
+INFO  | 2020-09-13 01:17:14 | [main] testCases.BaseClass(BaseClass.java:51) - URL is opened
+INFO  | 2020-09-13 01:17:16 | [main] testCases.BaseClass(BaseClass.java:53) - Browser is maximised
+INFO  | 2020-09-13 01:17:17 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:16) - Userid given
+INFO  | 2020-09-13 01:17:18 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:18) - Password given
+INFO  | 2020-09-13 01:17:19 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:20) - Login Successful
+INFO  | 2020-09-13 01:17:20 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:24) - Customer details is provided...
+INFO  | 2020-09-13 01:17:21 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:26) - name given
+INFO  | 2020-09-13 01:17:21 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:28) - gender given
+INFO  | 2020-09-13 01:17:21 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:30) - Date of Birth given
+INFO  | 2020-09-13 01:17:22 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:32) - address given
+INFO  | 2020-09-13 01:17:22 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:34) - City given
+INFO  | 2020-09-13 01:17:22 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:36) - State given
+INFO  | 2020-09-13 01:17:22 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:38) - pincode given
+INFO  | 2020-09-13 01:17:22 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:41) - mobile number given
+INFO  | 2020-09-13 01:17:22 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:44) - email id given
+INFO  | 2020-09-13 01:17:22 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:47) - password given
+INFO  | 2020-09-13 01:17:25 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:50) - Validation started
+INFO  | 2020-09-13 01:17:25 | [main] testCases.BaseClass(BaseClass.java:68) - Screenshot taken
+INFO  | 2020-09-13 01:17:25 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:54) - Customer added test successful..
+INFO  | 2020-09-13 01:17:26 | [main] testCases.BaseClass(BaseClass.java:60) - Browser closed successfully
+INFO  | 2020-09-13 01:19:07 | [main] testCases.BaseClass(BaseClass.java:48) - chromeBrowser started Successfully
+INFO  | 2020-09-13 01:19:10 | [main] testCases.BaseClass(BaseClass.java:51) - URL is opened
+INFO  | 2020-09-13 01:19:12 | [main] testCases.BaseClass(BaseClass.java:53) - Browser is maximised
+INFO  | 2020-09-13 01:19:13 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:16) - Userid given
+INFO  | 2020-09-13 01:19:15 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:18) - Password given
+INFO  | 2020-09-13 01:19:19 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:20) - Login Successful
+INFO  | 2020-09-13 01:19:20 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:24) - Customer details is provided...
+INFO  | 2020-09-13 01:19:20 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:26) - name given
+INFO  | 2020-09-13 01:19:20 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:28) - gender given
+INFO  | 2020-09-13 01:19:20 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:30) - Date of Birth given
+INFO  | 2020-09-13 01:19:20 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:32) - address given
+INFO  | 2020-09-13 01:19:20 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:34) - City given
+INFO  | 2020-09-13 01:19:20 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:36) - State given
+INFO  | 2020-09-13 01:19:20 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:38) - pincode given
+INFO  | 2020-09-13 01:19:20 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:41) - mobile number given
+INFO  | 2020-09-13 01:19:21 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:44) - email id given
+INFO  | 2020-09-13 01:19:21 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:47) - password given
+INFO  | 2020-09-13 01:19:24 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:50) - Validation started
+WARN  | 2020-09-13 01:19:24 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:57) - customer add test failed..
+INFO  | 2020-09-13 01:19:24 | [main] testCases.BaseClass(BaseClass.java:68) - Screenshot taken
+INFO  | 2020-09-13 01:19:26 | [main] testCases.BaseClass(BaseClass.java:60) - Browser closed successfully
+INFO  | 2020-09-13 01:22:42 | [main] testCases.BaseClass(BaseClass.java:48) - chromeBrowser started Successfully
+INFO  | 2020-09-13 01:22:53 | [main] testCases.BaseClass(BaseClass.java:51) - URL is opened
+INFO  | 2020-09-13 01:22:55 | [main] testCases.BaseClass(BaseClass.java:53) - Browser is maximised
+INFO  | 2020-09-13 01:22:56 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:16) - Userid given
+INFO  | 2020-09-13 01:22:57 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:18) - Password given
+INFO  | 2020-09-13 01:22:58 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:20) - Login Successful
+INFO  | 2020-09-13 01:22:59 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:24) - Customer details is provided...
+INFO  | 2020-09-13 01:22:59 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:26) - name given
+INFO  | 2020-09-13 01:22:59 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:28) - gender given
+INFO  | 2020-09-13 01:23:00 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:30) - Date of Birth given
+INFO  | 2020-09-13 01:23:00 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:32) - address given
+INFO  | 2020-09-13 01:23:00 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:34) - City given
+INFO  | 2020-09-13 01:23:00 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:36) - State given
+INFO  | 2020-09-13 01:23:00 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:38) - pincode given
+INFO  | 2020-09-13 01:23:00 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:41) - mobile number given
+INFO  | 2020-09-13 01:23:01 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:44) - email id given
+INFO  | 2020-09-13 01:23:01 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:47) - password given
+INFO  | 2020-09-13 01:23:02 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:50) - Validation started
+WARN  | 2020-09-13 01:23:02 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:57) - customer add test failed..
+INFO  | 2020-09-13 01:23:02 | [main] testCases.BaseClass(BaseClass.java:68) - Screenshot taken
+INFO  | 2020-09-13 01:23:03 | [main] testCases.BaseClass(BaseClass.java:60) - Browser closed successfully
+INFO  | 2020-09-13 01:27:59 | [main] testCases.BaseClass(BaseClass.java:48) - chromeBrowser started Successfully
+INFO  | 2020-09-13 01:28:04 | [main] testCases.BaseClass(BaseClass.java:51) - URL is opened
+INFO  | 2020-09-13 01:28:06 | [main] testCases.BaseClass(BaseClass.java:53) - Browser is maximised
+INFO  | 2020-09-13 01:28:07 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:16) - Userid given
+INFO  | 2020-09-13 01:28:07 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:18) - Password given
+INFO  | 2020-09-13 01:28:09 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:20) - Login Successful
+INFO  | 2020-09-13 01:28:10 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:24) - Customer details is provided...
+INFO  | 2020-09-13 01:28:10 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:26) - name given
+INFO  | 2020-09-13 01:28:10 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:28) - gender given
+INFO  | 2020-09-13 01:28:11 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:30) - Date of Birth given
+INFO  | 2020-09-13 01:28:11 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:32) - address given
+INFO  | 2020-09-13 01:28:11 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:34) - City given
+INFO  | 2020-09-13 01:28:11 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:36) - State given
+INFO  | 2020-09-13 01:28:11 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:38) - pincode given
+INFO  | 2020-09-13 01:28:11 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:41) - mobile number given
+INFO  | 2020-09-13 01:28:12 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:44) - email id given
+INFO  | 2020-09-13 01:28:12 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:47) - password given
+INFO  | 2020-09-13 01:28:14 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:50) - Validation started
+WARN  | 2020-09-13 01:28:14 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:57) - customer add test failed..
+INFO  | 2020-09-13 01:28:14 | [main] testCases.BaseClass(BaseClass.java:68) - Screenshot taken
+INFO  | 2020-09-13 01:28:15 | [main] testCases.BaseClass(BaseClass.java:60) - Browser closed successfully
+INFO  | 2020-09-13 01:31:10 | [main] testCases.BaseClass(BaseClass.java:48) - chromeBrowser started Successfully
+INFO  | 2020-09-13 01:31:14 | [main] testCases.BaseClass(BaseClass.java:51) - URL is opened
+INFO  | 2020-09-13 01:31:16 | [main] testCases.BaseClass(BaseClass.java:53) - Browser is maximised
+WARN  | 2020-09-13 01:31:16 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:19) - Login Test is failed
+INFO  | 2020-09-13 01:31:16 | [main] testCases.BaseClass(BaseClass.java:68) - Screenshot taken
+INFO  | 2020-09-13 01:31:17 | [main] testCases.BaseClass(BaseClass.java:60) - Browser closed successfully
+INFO  | 2020-09-13 01:32:42 | [main] testCases.BaseClass(BaseClass.java:48) - chromeBrowser started Successfully
+INFO  | 2020-09-13 01:32:47 | [main] testCases.BaseClass(BaseClass.java:51) - URL is opened
+INFO  | 2020-09-13 01:32:49 | [main] testCases.BaseClass(BaseClass.java:53) - Browser is maximised
+INFO  | 2020-09-13 01:32:50 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:16) - Index page title is checked
+INFO  | 2020-09-13 01:32:50 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:25) - Username is entered
+INFO  | 2020-09-13 01:32:50 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:28) - Password is entered
+WARN  | 2020-09-13 01:32:52 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:36) - Login Test is failed
+INFO  | 2020-09-13 01:32:53 | [main] testCases.BaseClass(BaseClass.java:68) - Screenshot taken
+INFO  | 2020-09-13 01:32:54 | [main] testCases.BaseClass(BaseClass.java:60) - Browser closed successfully
+INFO  | 2020-09-13 01:40:00 | [main] testCases.BaseClass(BaseClass.java:48) - chromeBrowser started Successfully
+INFO  | 2020-09-13 01:40:15 | [main] testCases.BaseClass(BaseClass.java:51) - URL is opened
+INFO  | 2020-09-13 01:40:18 | [main] testCases.BaseClass(BaseClass.java:53) - Browser is maximised
+INFO  | 2020-09-13 01:40:18 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:16) - Userid given
+INFO  | 2020-09-13 01:40:20 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:18) - Password given
+INFO  | 2020-09-13 01:40:22 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:20) - Login Successful
+INFO  | 2020-09-13 01:40:25 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:24) - Customer details is provided...
+INFO  | 2020-09-13 01:40:25 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:26) - name given
+INFO  | 2020-09-13 01:40:25 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:28) - gender given
+INFO  | 2020-09-13 01:40:26 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:30) - Date of Birth given
+INFO  | 2020-09-13 01:40:26 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:32) - address given
+INFO  | 2020-09-13 01:40:26 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:34) - City given
+INFO  | 2020-09-13 01:40:26 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:36) - State given
+INFO  | 2020-09-13 01:40:26 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:38) - pincode given
+INFO  | 2020-09-13 01:40:27 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:41) - mobile number given
+INFO  | 2020-09-13 01:40:27 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:44) - email id given
+INFO  | 2020-09-13 01:40:27 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:47) - password given
+INFO  | 2020-09-13 01:40:29 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:50) - Validation started
+INFO  | 2020-09-13 01:40:31 | [main] testCases.BaseClass(BaseClass.java:60) - Browser closed successfully
+INFO  | 2020-09-13 12:41:28 | [main] testCases.BaseClass(BaseClass.java:48) - chromeBrowser started Successfully
+INFO  | 2020-09-13 12:41:44 | [main] testCases.BaseClass(BaseClass.java:51) - URL is opened
+INFO  | 2020-09-13 12:41:51 | [main] testCases.BaseClass(BaseClass.java:53) - Browser is maximised
+INFO  | 2020-09-13 12:41:58 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:16) - Index page title is checked
+INFO  | 2020-09-13 12:42:04 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:25) - Username is entered
+INFO  | 2020-09-13 12:42:04 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:28) - Password is entered
+INFO  | 2020-09-13 12:42:08 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:34) - Home Page title is checked
+INFO  | 2020-09-13 12:42:10 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:42) - Logout successfully
+INFO  | 2020-09-13 12:42:23 | [main] testCases.BaseClass(BaseClass.java:60) - Browser closed successfully
+INFO  | 2020-09-13 12:42:28 | [main] testCases.BaseClass(BaseClass.java:48) - chromeBrowser started Successfully
+INFO  | 2020-09-13 12:42:35 | [main] testCases.BaseClass(BaseClass.java:51) - URL is opened
+INFO  | 2020-09-13 12:42:37 | [main] testCases.BaseClass(BaseClass.java:53) - Browser is maximised
+INFO  | 2020-09-13 12:42:37 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:16) - Userid given
+INFO  | 2020-09-13 12:42:37 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:18) - Password given
+INFO  | 2020-09-13 12:42:40 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:20) - Login Successful
+INFO  | 2020-09-13 12:42:42 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:24) - Customer details is provided...
+INFO  | 2020-09-13 12:42:42 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:26) - name given
+INFO  | 2020-09-13 12:42:42 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:28) - gender given
+INFO  | 2020-09-13 12:42:42 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:30) - Date of Birth given
+INFO  | 2020-09-13 12:42:42 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:32) - address given
+INFO  | 2020-09-13 12:42:42 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:34) - City given
+INFO  | 2020-09-13 12:42:42 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:36) - State given
+INFO  | 2020-09-13 12:42:42 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:38) - pincode given
+INFO  | 2020-09-13 12:42:43 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:41) - mobile number given
+INFO  | 2020-09-13 12:42:43 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:44) - email id given
+INFO  | 2020-09-13 12:42:43 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:47) - password given
+INFO  | 2020-09-13 12:42:44 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:50) - Validation started
+INFO  | 2020-09-13 12:42:45 | [main] testCases.BaseClass(BaseClass.java:60) - Browser closed successfully
+INFO  | 2020-09-13 12:44:05 | [main] testCases.BaseClass(BaseClass.java:48) - chromeBrowser started Successfully
+INFO  | 2020-09-13 12:44:08 | [main] testCases.BaseClass(BaseClass.java:51) - URL is opened
+INFO  | 2020-09-13 12:44:11 | [main] testCases.BaseClass(BaseClass.java:53) - Browser is maximised
+INFO  | 2020-09-13 12:44:11 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:16) - Index page title is checked
+INFO  | 2020-09-13 12:44:11 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:25) - Username is entered
+INFO  | 2020-09-13 12:44:11 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:28) - Password is entered
+INFO  | 2020-09-13 12:44:13 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:34) - Home Page title is checked
+INFO  | 2020-09-13 12:44:15 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:42) - Logout successfully
+INFO  | 2020-09-13 12:44:18 | [main] testCases.BaseClass(BaseClass.java:60) - Browser closed successfully
+INFO  | 2020-09-13 12:44:21 | [main] testCases.BaseClass(BaseClass.java:48) - chromeBrowser started Successfully
+INFO  | 2020-09-13 12:44:37 | [main] testCases.BaseClass(BaseClass.java:51) - URL is opened
+INFO  | 2020-09-13 12:44:39 | [main] testCases.BaseClass(BaseClass.java:53) - Browser is maximised
+INFO  | 2020-09-13 12:44:39 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:16) - Userid given
+INFO  | 2020-09-13 12:44:40 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:18) - Password given
+INFO  | 2020-09-13 12:44:42 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:20) - Login Successful
+INFO  | 2020-09-13 12:44:44 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:24) - Customer details is provided...
+INFO  | 2020-09-13 12:44:44 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:26) - name given
+INFO  | 2020-09-13 12:44:45 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:28) - gender given
+INFO  | 2020-09-13 12:44:45 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:30) - Date of Birth given
+INFO  | 2020-09-13 12:44:45 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:32) - address given
+INFO  | 2020-09-13 12:44:45 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:34) - City given
+INFO  | 2020-09-13 12:44:45 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:36) - State given
+INFO  | 2020-09-13 12:44:45 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:38) - pincode given
+INFO  | 2020-09-13 12:44:45 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:41) - mobile number given
+INFO  | 2020-09-13 12:44:46 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:44) - email id given
+INFO  | 2020-09-13 12:44:46 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:47) - password given
+INFO  | 2020-09-13 12:45:19 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:50) - Validation started
+INFO  | 2020-09-13 12:45:19 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:54) - Customer add test passed..
+INFO  | 2020-09-13 12:45:20 | [main] testCases.BaseClass(BaseClass.java:60) - Browser closed successfully
+INFO  | 2020-09-13 12:48:01 | [main] testCases.BaseClass(BaseClass.java:48) - chromeBrowser started Successfully
+INFO  | 2020-09-13 12:48:05 | [main] testCases.BaseClass(BaseClass.java:51) - URL is opened
+INFO  | 2020-09-13 12:48:07 | [main] testCases.BaseClass(BaseClass.java:53) - Browser is maximised
+INFO  | 2020-09-13 12:48:08 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:16) - Userid given
+INFO  | 2020-09-13 12:48:08 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:18) - Password given
+INFO  | 2020-09-13 12:48:10 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:20) - Login Successful
+INFO  | 2020-09-13 12:48:11 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:24) - Customer details is provided...
+INFO  | 2020-09-13 12:48:11 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:26) - name given
+INFO  | 2020-09-13 12:48:12 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:28) - gender given
+INFO  | 2020-09-13 12:48:12 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:30) - Date of Birth given
+INFO  | 2020-09-13 12:48:12 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:32) - address given
+INFO  | 2020-09-13 12:48:12 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:34) - City given
+INFO  | 2020-09-13 12:48:12 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:36) - State given
+INFO  | 2020-09-13 12:48:12 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:38) - pincode given
+INFO  | 2020-09-13 12:48:13 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:41) - mobile number given
+INFO  | 2020-09-13 12:48:13 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:44) - email id given
+INFO  | 2020-09-13 12:48:13 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:47) - password given
+INFO  | 2020-09-13 12:48:17 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:50) - Validation started
+INFO  | 2020-09-13 12:48:18 | [main] testCases.BaseClass(BaseClass.java:68) - Screenshot taken
+WARN  | 2020-09-13 12:48:18 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:58) - customer add test failed..
+INFO  | 2020-09-13 12:48:19 | [main] testCases.BaseClass(BaseClass.java:60) - Browser closed successfully
+INFO  | 2020-09-13 12:51:20 | [main] testCases.BaseClass(BaseClass.java:48) - chromeBrowser started Successfully
+INFO  | 2020-09-13 12:51:32 | [main] testCases.BaseClass(BaseClass.java:51) - URL is opened
+INFO  | 2020-09-13 12:51:34 | [main] testCases.BaseClass(BaseClass.java:53) - Browser is maximised
+INFO  | 2020-09-13 12:51:36 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:16) - Userid given
+INFO  | 2020-09-13 12:51:36 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:18) - Password given
+INFO  | 2020-09-13 12:51:43 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:20) - Login Successful
+INFO  | 2020-09-13 12:51:51 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:24) - Customer details is provided...
+INFO  | 2020-09-13 12:51:51 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:26) - name given
+INFO  | 2020-09-13 12:51:51 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:28) - gender given
+INFO  | 2020-09-13 12:51:51 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:30) - Date of Birth given
+INFO  | 2020-09-13 12:51:51 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:32) - address given
+INFO  | 2020-09-13 12:51:51 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:34) - City given
+INFO  | 2020-09-13 12:51:52 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:36) - State given
+INFO  | 2020-09-13 12:51:52 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:38) - pincode given
+INFO  | 2020-09-13 12:51:52 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:41) - mobile number given
+INFO  | 2020-09-13 12:51:52 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:44) - email id given
+INFO  | 2020-09-13 12:51:52 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:47) - password given
+INFO  | 2020-09-13 12:52:06 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:50) - Validation started
+INFO  | 2020-09-13 12:52:06 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:54) - Customer add test passed..
+WARN  | 2020-09-13 12:52:06 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:66) - customer add test failed..
+INFO  | 2020-09-13 12:52:07 | [main] testCases.BaseClass(BaseClass.java:68) - Screenshot taken
+INFO  | 2020-09-13 12:52:07 | [main] testCases.BaseClass(BaseClass.java:60) - Browser closed successfully
+INFO  | 2020-09-13 12:58:03 | [main] testCases.BaseClass(BaseClass.java:48) - chromeBrowser started Successfully
+INFO  | 2020-09-13 12:58:09 | [main] testCases.BaseClass(BaseClass.java:51) - URL is opened
+INFO  | 2020-09-13 12:58:11 | [main] testCases.BaseClass(BaseClass.java:53) - Browser is maximised
+INFO  | 2020-09-13 12:58:12 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:16) - Userid given
+INFO  | 2020-09-13 12:58:12 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:18) - Password given
+INFO  | 2020-09-13 12:58:14 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:20) - Login Successful
+INFO  | 2020-09-13 12:58:16 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:24) - Customer details is provided...
+INFO  | 2020-09-13 12:58:17 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:26) - name given
+INFO  | 2020-09-13 12:58:17 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:28) - gender given
+INFO  | 2020-09-13 12:58:17 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:30) - Date of Birth given
+INFO  | 2020-09-13 12:58:17 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:32) - address given
+INFO  | 2020-09-13 12:58:17 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:34) - City given
+INFO  | 2020-09-13 12:58:17 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:36) - State given
+INFO  | 2020-09-13 12:58:17 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:38) - pincode given
+INFO  | 2020-09-13 12:58:17 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:41) - mobile number given
+INFO  | 2020-09-13 12:58:18 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:44) - email id given
+INFO  | 2020-09-13 12:58:18 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:47) - password given
+INFO  | 2020-09-13 12:58:21 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:50) - Validation started
+INFO  | 2020-09-13 12:58:21 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:54) - Customer add test passed..
+INFO  | 2020-09-13 12:58:22 | [main] testCases.BaseClass(BaseClass.java:60) - Browser closed successfully
+INFO  | 2020-09-13 12:59:07 | [main] testCases.BaseClass(BaseClass.java:48) - chromeBrowser started Successfully
+INFO  | 2020-09-13 12:59:23 | [main] testCases.BaseClass(BaseClass.java:51) - URL is opened
+INFO  | 2020-09-13 12:59:26 | [main] testCases.BaseClass(BaseClass.java:53) - Browser is maximised
+INFO  | 2020-09-13 12:59:26 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:16) - Userid given
+INFO  | 2020-09-13 12:59:26 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:18) - Password given
+INFO  | 2020-09-13 13:03:32 | [main] testCases.BaseClass(BaseClass.java:48) - chromeBrowser started Successfully
+INFO  | 2020-09-13 13:03:58 | [main] testCases.BaseClass(BaseClass.java:51) - URL is opened
+INFO  | 2020-09-13 13:04:00 | [main] testCases.BaseClass(BaseClass.java:53) - Browser is maximised
+INFO  | 2020-09-13 13:04:01 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:16) - Userid given
+INFO  | 2020-09-13 13:04:01 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:18) - Password given
+INFO  | 2020-09-13 13:04:02 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:20) - Login Successful
+INFO  | 2020-09-13 13:04:03 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:24) - Customer details is provided...
+INFO  | 2020-09-13 13:04:03 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:26) - name given
+INFO  | 2020-09-13 13:04:04 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:28) - gender given
+INFO  | 2020-09-13 13:04:04 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:30) - Date of Birth given
+INFO  | 2020-09-13 13:04:04 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:32) - address given
+INFO  | 2020-09-13 13:04:04 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:34) - City given
+INFO  | 2020-09-13 13:04:04 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:36) - State given
+INFO  | 2020-09-13 13:04:04 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:38) - pincode given
+INFO  | 2020-09-13 13:04:04 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:41) - mobile number given
+INFO  | 2020-09-13 13:04:05 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:44) - email id given
+INFO  | 2020-09-13 13:04:05 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:47) - password given
+INFO  | 2020-09-13 13:04:07 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:50) - Validation started
+INFO  | 2020-09-13 13:04:08 | [main] testCases.BaseClass(BaseClass.java:68) - Screenshot taken
+WARN  | 2020-09-13 13:04:08 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:58) - customer add test failed..
+INFO  | 2020-09-13 13:04:09 | [main] testCases.BaseClass(BaseClass.java:60) - Browser closed successfully
+INFO  | 2020-09-13 13:19:16 | [main] testCases.BaseClass(BaseClass.java:48) - chromeBrowser started Successfully
+INFO  | 2020-09-13 13:19:22 | [main] testCases.BaseClass(BaseClass.java:51) - URL is opened
+INFO  | 2020-09-13 13:19:24 | [main] testCases.BaseClass(BaseClass.java:53) - Browser is maximised
+INFO  | 2020-09-13 13:19:29 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:16) - Userid given
+INFO  | 2020-09-13 13:19:29 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:18) - Password given
+INFO  | 2020-09-13 13:19:32 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:20) - Login Successful
+INFO  | 2020-09-13 13:19:33 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:24) - Customer details is provided...
+INFO  | 2020-09-13 13:19:33 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:26) - name given
+INFO  | 2020-09-13 13:19:33 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:28) - gender given
+INFO  | 2020-09-13 13:19:33 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:30) - Date of Birth given
+INFO  | 2020-09-13 13:19:34 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:32) - address given
+INFO  | 2020-09-13 13:19:34 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:34) - City given
+INFO  | 2020-09-13 13:19:34 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:36) - State given
+INFO  | 2020-09-13 13:19:34 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:38) - pincode given
+INFO  | 2020-09-13 13:19:34 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:41) - mobile number given
+INFO  | 2020-09-13 13:19:34 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:44) - email id given
+INFO  | 2020-09-13 13:19:34 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:47) - password given
+INFO  | 2020-09-13 13:19:37 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:50) - Validation started
+INFO  | 2020-09-13 13:19:37 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:57) - Screenshot taken
+WARN  | 2020-09-13 13:19:37 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:58) - customer add test failed..
+INFO  | 2020-09-13 13:19:39 | [main] testCases.BaseClass(BaseClass.java:60) - Browser closed successfully
+INFO  | 2020-09-13 13:22:25 | [main] testCases.BaseClass(BaseClass.java:48) - chromeBrowser started Successfully
+INFO  | 2020-09-13 13:22:29 | [main] testCases.BaseClass(BaseClass.java:51) - URL is opened
+INFO  | 2020-09-13 13:22:31 | [main] testCases.BaseClass(BaseClass.java:53) - Browser is maximised
+INFO  | 2020-09-13 13:22:31 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:16) - Index page title is checked
+INFO  | 2020-09-13 13:22:31 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:25) - Username is entered
+INFO  | 2020-09-13 13:22:32 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:28) - Password is entered
+INFO  | 2020-09-13 13:22:34 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:34) - Home Page title is checked
+INFO  | 2020-09-13 13:22:35 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:43) - Logout successfully
+INFO  | 2020-09-13 13:22:37 | [main] testCases.BaseClass(BaseClass.java:60) - Browser closed successfully
+INFO  | 2020-09-13 13:22:41 | [main] testCases.BaseClass(BaseClass.java:48) - chromeBrowser started Successfully
+INFO  | 2020-09-13 13:22:44 | [main] testCases.BaseClass(BaseClass.java:51) - URL is opened
+INFO  | 2020-09-13 13:22:46 | [main] testCases.BaseClass(BaseClass.java:53) - Browser is maximised
+INFO  | 2020-09-13 13:22:47 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:16) - Userid given
+INFO  | 2020-09-13 13:22:47 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:18) - Password given
+INFO  | 2020-09-13 13:22:49 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:20) - Login Successful
+INFO  | 2020-09-13 13:22:51 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:24) - Customer details is provided...
+INFO  | 2020-09-13 13:22:51 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:26) - name given
+INFO  | 2020-09-13 13:22:51 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:28) - gender given
+INFO  | 2020-09-13 13:22:51 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:30) - Date of Birth given
+INFO  | 2020-09-13 13:22:51 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:32) - address given
+INFO  | 2020-09-13 13:22:51 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:34) - City given
+INFO  | 2020-09-13 13:22:51 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:36) - State given
+INFO  | 2020-09-13 13:22:52 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:38) - pincode given
+INFO  | 2020-09-13 13:22:52 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:41) - mobile number given
+INFO  | 2020-09-13 13:22:52 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:44) - email id given
+INFO  | 2020-09-13 13:22:52 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:47) - password given
+INFO  | 2020-09-13 13:22:53 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:50) - Validation started
+INFO  | 2020-09-13 13:22:56 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:57) - Screenshot taken
+WARN  | 2020-09-13 13:22:56 | [main] testCases.TC_AddCustomerTest_002(TC_AddCustomerTest_002.java:58) - customer add test failed..
+INFO  | 2020-09-13 13:22:57 | [main] testCases.BaseClass(BaseClass.java:60) - Browser closed successfully
+INFO  | 2020-09-13 19:32:57 | [main] testCases.BaseClass(BaseClass.java:49) - chromeBrowser started Successfully
+INFO  | 2020-09-13 19:36:09 | [main] testCases.BaseClass(BaseClass.java:49) - chromeBrowser started Successfully
+INFO  | 2020-09-13 19:36:17 | [main] testCases.BaseClass(BaseClass.java:52) - URL is opened
+INFO  | 2020-09-13 19:36:19 | [main] testCases.BaseClass(BaseClass.java:54) - Browser is maximised
+INFO  | 2020-09-13 19:36:19 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:19) - Username is provided
+INFO  | 2020-09-13 19:36:21 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:21) - Password is provided
+INFO  | 2020-09-13 19:36:31 | [main] testCases.BaseClass(BaseClass.java:61) - Browser closed successfully
+INFO  | 2020-09-13 19:39:23 | [main] testCases.BaseClass(BaseClass.java:49) - chromeBrowser started Successfully
+INFO  | 2020-09-13 19:39:40 | [main] testCases.BaseClass(BaseClass.java:52) - URL is opened
+INFO  | 2020-09-13 19:39:43 | [main] testCases.BaseClass(BaseClass.java:54) - Browser is maximised
+INFO  | 2020-09-13 19:39:45 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:19) - Username is provided
+INFO  | 2020-09-13 19:39:46 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:21) - Password is provided
+INFO  | 2020-09-13 19:39:47 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:23) - Login Successful
+INFO  | 2020-09-13 19:39:53 | [main] testCases.BaseClass(BaseClass.java:61) - Browser closed successfully
+INFO  | 2020-09-13 19:43:44 | [main] testCases.BaseClass(BaseClass.java:49) - chromeBrowser started Successfully
+INFO  | 2020-09-13 19:43:53 | [main] testCases.BaseClass(BaseClass.java:52) - URL is opened
+INFO  | 2020-09-13 19:43:55 | [main] testCases.BaseClass(BaseClass.java:54) - Browser is maximised
+INFO  | 2020-09-13 19:43:55 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:19) - Username is provided
+INFO  | 2020-09-13 19:43:55 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:21) - Password is provided
+INFO  | 2020-09-13 19:43:58 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:23) - Login Successful
+INFO  | 2020-09-13 19:44:00 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:26) - Edit Customer page is opened
+INFO  | 2020-09-13 19:44:01 | [main] testCases.BaseClass(BaseClass.java:61) - Browser closed successfully
+INFO  | 2020-09-13 19:52:11 | [main] testCases.BaseClass(BaseClass.java:49) - chromeBrowser started Successfully
+INFO  | 2020-09-13 19:52:21 | [main] testCases.BaseClass(BaseClass.java:52) - URL is opened
+INFO  | 2020-09-13 19:52:23 | [main] testCases.BaseClass(BaseClass.java:54) - Browser is maximised
+INFO  | 2020-09-13 19:52:23 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:19) - Username is provided
+INFO  | 2020-09-13 19:52:23 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:21) - Password is provided
+INFO  | 2020-09-13 19:52:26 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:23) - Login Successful
+INFO  | 2020-09-13 19:52:28 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:26) - Edit Customer page is opened
+INFO  | 2020-09-13 19:52:28 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:28) - Customer ID is provided
+INFO  | 2020-09-13 19:52:30 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:31) - Edit Customer form is opened
+INFO  | 2020-09-13 19:52:30 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:33) - Address changed
+INFO  | 2020-09-13 19:52:31 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:35) - City changed
+INFO  | 2020-09-13 19:52:31 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:37) - State changed
+INFO  | 2020-09-13 19:52:31 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:41) - Mobileno changed
+INFO  | 2020-09-13 19:52:31 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:45) - Emil id changed
+INFO  | 2020-09-13 19:52:33 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:48) - Edit Customer page validation started
+INFO  | 2020-09-13 19:52:33 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:52) - Edit customer is successful
+INFO  | 2020-09-13 19:52:34 | [main] testCases.BaseClass(BaseClass.java:61) - Browser closed successfully
+INFO  | 2020-09-13 19:53:12 | [main] testCases.BaseClass(BaseClass.java:49) - chromeBrowser started Successfully
+INFO  | 2020-09-13 19:53:27 | [main] testCases.BaseClass(BaseClass.java:52) - URL is opened
+INFO  | 2020-09-13 19:53:29 | [main] testCases.BaseClass(BaseClass.java:54) - Browser is maximised
+INFO  | 2020-09-13 19:53:29 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:19) - Username is provided
+INFO  | 2020-09-13 19:53:29 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:21) - Password is provided
+INFO  | 2020-09-13 19:53:32 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:23) - Login Successful
+INFO  | 2020-09-13 19:53:35 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:26) - Edit Customer page is opened
+INFO  | 2020-09-13 19:53:35 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:28) - Customer ID is provided
+INFO  | 2020-09-13 19:53:38 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:31) - Edit Customer form is opened
+INFO  | 2020-09-13 19:53:38 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:33) - Address changed
+INFO  | 2020-09-13 19:53:38 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:35) - City changed
+INFO  | 2020-09-13 19:53:39 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:37) - State changed
+INFO  | 2020-09-13 19:53:39 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:41) - Mobileno changed
+INFO  | 2020-09-13 19:53:39 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:45) - Emil id changed
+INFO  | 2020-09-13 19:53:39 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:48) - Edit Customer page validation started
+INFO  | 2020-09-13 19:53:41 | [main] testCases.BaseClass(BaseClass.java:61) - Browser closed successfully
+INFO  | 2020-09-13 19:58:55 | [main] testCases.BaseClass(BaseClass.java:49) - chromeBrowser started Successfully
+INFO  | 2020-09-13 19:59:02 | [main] testCases.BaseClass(BaseClass.java:52) - URL is opened
+INFO  | 2020-09-13 19:59:04 | [main] testCases.BaseClass(BaseClass.java:54) - Browser is maximised
+INFO  | 2020-09-13 19:59:04 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:19) - Username is provided
+INFO  | 2020-09-13 19:59:09 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:21) - Password is provided
+INFO  | 2020-09-13 19:59:11 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:23) - Login Successful
+INFO  | 2020-09-13 19:59:14 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:26) - Edit Customer page is opened
+INFO  | 2020-09-13 19:59:14 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:28) - Customer ID is provided
+INFO  | 2020-09-13 19:59:16 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:31) - Edit Customer form is opened
+INFO  | 2020-09-13 19:59:16 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:33) - Address changed
+INFO  | 2020-09-13 19:59:16 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:35) - City changed
+INFO  | 2020-09-13 19:59:16 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:37) - State changed
+INFO  | 2020-09-13 19:59:16 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:41) - Mobileno changed
+INFO  | 2020-09-13 19:59:16 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:45) - Email id changed
+INFO  | 2020-09-13 19:59:17 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:49) - Validation started
+INFO  | 2020-09-13 19:59:18 | [main] testCases.BaseClass(BaseClass.java:61) - Browser closed successfully
+INFO  | 2020-09-13 20:02:57 | [main] testCases.BaseClass(BaseClass.java:49) - chromeBrowser started Successfully
+INFO  | 2020-09-13 20:04:49 | [main] testCases.BaseClass(BaseClass.java:49) - chromeBrowser started Successfully
+INFO  | 2020-09-13 20:04:53 | [main] testCases.BaseClass(BaseClass.java:52) - URL is opened
+INFO  | 2020-09-13 20:04:55 | [main] testCases.BaseClass(BaseClass.java:54) - Browser is maximised
+INFO  | 2020-09-13 20:04:56 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:19) - Username is provided
+INFO  | 2020-09-13 20:04:56 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:21) - Password is provided
+INFO  | 2020-09-13 20:04:58 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:23) - Login Successful
+INFO  | 2020-09-13 20:05:00 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:26) - Edit Customer page is opened
+INFO  | 2020-09-13 20:05:00 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:28) - Customer ID is provided
+INFO  | 2020-09-13 20:05:01 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:31) - Edit Customer form is opened
+INFO  | 2020-09-13 20:05:02 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:33) - Address changed
+INFO  | 2020-09-13 20:05:02 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:35) - City changed
+INFO  | 2020-09-13 20:05:02 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:37) - State changed
+INFO  | 2020-09-13 20:05:02 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:41) - Mobileno changed
+INFO  | 2020-09-13 20:05:02 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:45) - Email id changed
+INFO  | 2020-09-13 20:05:05 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:49) - Validation started
+WARN  | 2020-09-13 20:05:05 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:55) - customer edit test failed..
+INFO  | 2020-09-13 20:05:05 | [main] testCases.TC_EditCustomerTest_001(TC_EditCustomerTest_001.java:57) - Screenshot taken
+INFO  | 2020-09-13 20:05:06 | [main] testCases.BaseClass(BaseClass.java:61) - Browser closed successfully
+INFO  | 2020-09-13 20:08:57 | [main] testCases.BaseClass(BaseClass.java:49) - chromeBrowser started Successfully
+INFO  | 2020-09-13 20:09:02 | [main] testCases.BaseClass(BaseClass.java:52) - URL is opened
+INFO  | 2020-09-13 20:09:04 | [main] testCases.BaseClass(BaseClass.java:54) - Browser is maximised
+INFO  | 2020-09-13 20:09:05 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:16) - Userid given
+INFO  | 2020-09-13 20:09:05 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:18) - Password given
+INFO  | 2020-09-13 20:09:07 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:20) - Login Successful
+INFO  | 2020-09-13 20:09:08 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:24) - Customer details is provided...
+INFO  | 2020-09-13 20:09:08 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:26) - name given
+INFO  | 2020-09-13 20:09:08 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:28) - gender given
+INFO  | 2020-09-13 20:09:09 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:30) - Date of Birth given
+INFO  | 2020-09-13 20:09:09 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:32) - address given
+INFO  | 2020-09-13 20:09:09 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:34) - City given
+INFO  | 2020-09-13 20:09:09 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:36) - State given
+INFO  | 2020-09-13 20:09:09 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:38) - pincode given
+INFO  | 2020-09-13 20:09:09 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:41) - mobile number given
+INFO  | 2020-09-13 20:09:10 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:44) - email id given
+INFO  | 2020-09-13 20:09:10 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:47) - password given
+INFO  | 2020-09-13 20:09:11 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:50) - Validation started
+INFO  | 2020-09-13 20:09:12 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:58) - Screenshot taken
+WARN  | 2020-09-13 20:09:12 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:59) - customer add test failed..
+INFO  | 2020-09-13 20:09:13 | [main] testCases.BaseClass(BaseClass.java:61) - Browser closed successfully
+INFO  | 2020-09-13 20:12:14 | [main] testCases.BaseClass(BaseClass.java:49) - chromeBrowser started Successfully
+INFO  | 2020-09-13 20:12:18 | [main] testCases.BaseClass(BaseClass.java:52) - URL is opened
+INFO  | 2020-09-13 20:12:20 | [main] testCases.BaseClass(BaseClass.java:54) - Browser is maximised
+INFO  | 2020-09-13 20:12:20 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:16) - Userid given
+INFO  | 2020-09-13 20:12:21 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:18) - Password given
+INFO  | 2020-09-13 20:12:22 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:20) - Login Successful
+INFO  | 2020-09-13 20:12:23 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:24) - Customer details is provided...
+INFO  | 2020-09-13 20:12:24 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:26) - name given
+INFO  | 2020-09-13 20:12:24 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:28) - gender given
+INFO  | 2020-09-13 20:12:24 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:30) - Date of Birth given
+INFO  | 2020-09-13 20:12:24 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:32) - address given
+INFO  | 2020-09-13 20:12:24 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:34) - City given
+INFO  | 2020-09-13 20:12:24 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:36) - State given
+INFO  | 2020-09-13 20:12:24 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:38) - pincode given
+INFO  | 2020-09-13 20:12:24 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:41) - mobile number given
+INFO  | 2020-09-13 20:12:25 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:44) - email id given
+INFO  | 2020-09-13 20:12:25 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:47) - password given
+INFO  | 2020-09-13 20:12:26 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:50) - Validation started
+INFO  | 2020-09-13 20:12:26 | [main] testCases.TC_AddCustomerTest_001(TC_AddCustomerTest_001.java:54) - Customer add test passed..
+INFO  | 2020-09-13 20:12:27 | [main] testCases.BaseClass(BaseClass.java:61) - Browser closed successfully
+INFO  | 2020-09-13 20:47:48 | [main] testCases.BaseClass(BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-13 20:47:54 | [main] testCases.BaseClass(BaseClass.java:53) - URL is opened
+INFO  | 2020-09-13 20:47:56 | [main] testCases.BaseClass(BaseClass.java:55) - Browser is maximised
+INFO  | 2020-09-13 20:47:57 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:17) - Username is provided
+INFO  | 2020-09-13 20:47:57 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:19) - Password is provided
+INFO  | 2020-09-13 20:47:58 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:21) - Login Successful
+INFO  | 2020-09-13 20:48:00 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:24) - Delete Customer page is opened
+INFO  | 2020-09-13 20:48:00 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:26) - Customer ID is provided
+INFO  | 2020-09-13 20:48:00 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:33) - Validation started
+INFO  | 2020-09-13 20:48:02 | [main] testCases.BaseClass(BaseClass.java:62) - Browser closed successfully
+INFO  | 2020-09-13 20:49:46 | [main] testCases.BaseClass(BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-13 20:50:00 | [main] testCases.BaseClass(BaseClass.java:53) - URL is opened
+INFO  | 2020-09-13 20:50:03 | [main] testCases.BaseClass(BaseClass.java:55) - Browser is maximised
+INFO  | 2020-09-13 20:50:03 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:17) - Username is provided
+INFO  | 2020-09-13 20:50:03 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:19) - Password is provided
+INFO  | 2020-09-13 20:50:05 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:21) - Login Successful
+INFO  | 2020-09-13 20:50:07 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:24) - Delete Customer page is opened
+INFO  | 2020-09-13 20:50:07 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:26) - Customer ID is provided
+INFO  | 2020-09-13 20:50:08 | [main] testCases.BaseClass(BaseClass.java:62) - Browser closed successfully
+INFO  | 2020-09-13 21:03:33 | [main] testCases.BaseClass(BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-13 21:03:39 | [main] testCases.BaseClass(BaseClass.java:53) - URL is opened
+INFO  | 2020-09-13 21:03:41 | [main] testCases.BaseClass(BaseClass.java:55) - Browser is maximised
+INFO  | 2020-09-13 21:03:46 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:17) - Username is provided
+INFO  | 2020-09-13 21:03:47 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:19) - Password is provided
+INFO  | 2020-09-13 21:03:48 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:21) - Login Successful
+INFO  | 2020-09-13 21:03:51 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:24) - Delete Customer page is opened
+INFO  | 2020-09-13 21:03:53 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:26) - Customer ID is provided
+INFO  | 2020-09-13 21:03:53 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:33) - Validation started
+INFO  | 2020-09-13 21:04:01 | [main] testCases.BaseClass(BaseClass.java:62) - Browser closed successfully
+INFO  | 2020-09-13 21:10:23 | [main] testCases.BaseClass(BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-13 21:10:31 | [main] testCases.BaseClass(BaseClass.java:53) - URL is opened
+INFO  | 2020-09-13 21:10:33 | [main] testCases.BaseClass(BaseClass.java:55) - Browser is maximised
+INFO  | 2020-09-13 21:10:33 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:17) - Username is provided
+INFO  | 2020-09-13 21:10:36 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:19) - Password is provided
+INFO  | 2020-09-13 21:10:43 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:21) - Login Successful
+INFO  | 2020-09-13 21:10:43 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:24) - Delete Customer page is opened
+INFO  | 2020-09-13 21:10:44 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:26) - Customer ID is provided
+INFO  | 2020-09-13 21:10:46 | [main] testCases.BaseClass(BaseClass.java:62) - Browser closed successfully
+INFO  | 2020-09-13 21:18:16 | [main] testCases.BaseClass(BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-13 21:18:24 | [main] testCases.BaseClass(BaseClass.java:53) - URL is opened
+INFO  | 2020-09-13 21:18:26 | [main] testCases.BaseClass(BaseClass.java:55) - Browser is maximised
+INFO  | 2020-09-13 21:18:32 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:17) - Username is provided
+INFO  | 2020-09-13 21:18:32 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:19) - Password is provided
+INFO  | 2020-09-13 21:18:34 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:21) - Login Successful
+INFO  | 2020-09-13 21:18:36 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:24) - Delete Customer page is opened
+INFO  | 2020-09-13 21:18:40 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:26) - Customer ID is provided
+INFO  | 2020-09-13 21:18:43 | [main] testCases.BaseClass(BaseClass.java:62) - Browser closed successfully
+INFO  | 2020-09-13 21:21:10 | [main] testCases.BaseClass(BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-13 21:21:16 | [main] testCases.BaseClass(BaseClass.java:53) - URL is opened
+INFO  | 2020-09-13 21:21:18 | [main] testCases.BaseClass(BaseClass.java:55) - Browser is maximised
+INFO  | 2020-09-13 21:21:18 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:17) - Username is provided
+INFO  | 2020-09-13 21:21:18 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:19) - Password is provided
+INFO  | 2020-09-13 21:21:20 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:21) - Login Successful
+INFO  | 2020-09-13 21:21:31 | [main] testCases.BaseClass(BaseClass.java:62) - Browser closed successfully
+INFO  | 2020-09-13 21:21:58 | [main] testCases.BaseClass(BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-13 21:22:03 | [main] testCases.BaseClass(BaseClass.java:53) - URL is opened
+INFO  | 2020-09-13 21:22:05 | [main] testCases.BaseClass(BaseClass.java:55) - Browser is maximised
+INFO  | 2020-09-13 21:22:05 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:17) - Username is provided
+INFO  | 2020-09-13 21:22:06 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:19) - Password is provided
+INFO  | 2020-09-13 21:22:12 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:21) - Login Successful
+INFO  | 2020-09-13 21:22:14 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:24) - Delete Customer page is opened
+INFO  | 2020-09-13 21:22:14 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:26) - Customer ID is provided
+INFO  | 2020-09-13 21:22:14 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:29) - alert is accepted
+INFO  | 2020-09-13 21:22:15 | [main] testCases.BaseClass(BaseClass.java:62) - Browser closed successfully
+INFO  | 2020-09-13 21:23:51 | [main] testCases.BaseClass(BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-13 21:23:57 | [main] testCases.BaseClass(BaseClass.java:53) - URL is opened
+INFO  | 2020-09-13 21:24:00 | [main] testCases.BaseClass(BaseClass.java:55) - Browser is maximised
+INFO  | 2020-09-13 21:24:03 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:17) - Username is provided
+INFO  | 2020-09-13 21:24:03 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:19) - Password is provided
+INFO  | 2020-09-13 21:24:07 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:21) - Login Successful
+INFO  | 2020-09-13 21:24:08 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:24) - Delete Customer page is opened
+INFO  | 2020-09-13 21:24:08 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:26) - Customer ID is provided
+INFO  | 2020-09-13 21:24:08 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:29) - alert is accepted
+INFO  | 2020-09-13 21:24:10 | [main] testCases.BaseClass(BaseClass.java:62) - Browser closed successfully
+INFO  | 2020-09-13 21:32:44 | [main] testCases.BaseClass(BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-13 21:32:48 | [main] testCases.BaseClass(BaseClass.java:53) - URL is opened
+INFO  | 2020-09-13 21:32:50 | [main] testCases.BaseClass(BaseClass.java:55) - Browser is maximised
+INFO  | 2020-09-13 21:32:50 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:17) - Username is provided
+INFO  | 2020-09-13 21:32:51 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:19) - Password is provided
+INFO  | 2020-09-13 21:32:54 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:21) - Login Successful
+INFO  | 2020-09-13 21:32:58 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:24) - Delete Customer page is opened
+INFO  | 2020-09-13 21:32:58 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:26) - Customer ID is provided
+INFO  | 2020-09-13 21:32:58 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:29) - alert is accepted
+INFO  | 2020-09-13 21:33:00 | [main] testCases.BaseClass(BaseClass.java:62) - Browser closed successfully
+INFO  | 2020-09-13 21:35:15 | [main] testCases.BaseClass(BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-13 21:35:18 | [main] testCases.BaseClass(BaseClass.java:53) - URL is opened
+INFO  | 2020-09-13 21:35:20 | [main] testCases.BaseClass(BaseClass.java:55) - Browser is maximised
+INFO  | 2020-09-13 21:35:20 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:17) - Username is provided
+INFO  | 2020-09-13 21:35:21 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:19) - Password is provided
+INFO  | 2020-09-13 21:35:22 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:21) - Login Successful
+INFO  | 2020-09-13 21:35:24 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:24) - Delete Customer page is opened
+INFO  | 2020-09-13 21:35:25 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:26) - Customer ID is provided
+INFO  | 2020-09-13 21:35:25 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:29) - alert is accepted
+INFO  | 2020-09-13 21:35:27 | [main] testCases.BaseClass(BaseClass.java:62) - Browser closed successfully
+INFO  | 2020-09-13 21:44:07 | [main] testCases.BaseClass(BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-13 21:44:17 | [main] testCases.BaseClass(BaseClass.java:53) - URL is opened
+INFO  | 2020-09-13 21:44:19 | [main] testCases.BaseClass(BaseClass.java:55) - Browser is maximised
+INFO  | 2020-09-13 21:44:25 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:17) - Username is provided
+INFO  | 2020-09-13 21:44:25 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:19) - Password is provided
+INFO  | 2020-09-13 21:44:27 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:21) - Login Successful
+INFO  | 2020-09-13 21:44:28 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:24) - Delete Customer page is opened
+INFO  | 2020-09-13 21:44:29 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:26) - Customer ID is provided
+INFO  | 2020-09-13 21:44:32 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:30) - alert is accepted
+INFO  | 2020-09-13 21:44:36 | [main] testCases.BaseClass(BaseClass.java:62) - Browser closed successfully
+INFO  | 2020-09-13 21:46:47 | [main] testCases.BaseClass(BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-13 21:46:52 | [main] testCases.BaseClass(BaseClass.java:53) - URL is opened
+INFO  | 2020-09-13 21:46:54 | [main] testCases.BaseClass(BaseClass.java:55) - Browser is maximised
+INFO  | 2020-09-13 21:46:54 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:17) - Username is provided
+INFO  | 2020-09-13 21:46:54 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:19) - Password is provided
+INFO  | 2020-09-13 21:46:56 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:21) - Login Successful
+INFO  | 2020-09-13 21:46:58 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:24) - Delete Customer page is opened
+INFO  | 2020-09-13 21:46:58 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:26) - Customer ID is provided
+INFO  | 2020-09-13 21:47:02 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:30) - alert is accepted
+INFO  | 2020-09-13 21:47:06 | [main] testCases.BaseClass(BaseClass.java:62) - Browser closed successfully
+INFO  | 2020-09-13 21:55:20 | [main] testCases.BaseClass(BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-13 21:55:37 | [main] testCases.BaseClass(BaseClass.java:53) - URL is opened
+INFO  | 2020-09-13 21:55:39 | [main] testCases.BaseClass(BaseClass.java:55) - Browser is maximised
+INFO  | 2020-09-13 21:55:39 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:17) - Username is provided
+INFO  | 2020-09-13 21:55:39 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:19) - Password is provided
+INFO  | 2020-09-13 21:55:45 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:21) - Login Successful
+INFO  | 2020-09-13 21:55:47 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:24) - Delete Customer page is opened
+INFO  | 2020-09-13 21:55:47 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:26) - Customer ID is provided
+INFO  | 2020-09-13 21:55:50 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:30) - alert is accepted
+INFO  | 2020-09-13 21:55:53 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:35) - Customer delete test passed..
+INFO  | 2020-09-13 21:55:54 | [main] testCases.BaseClass(BaseClass.java:62) - Browser closed successfully
+INFO  | 2020-09-13 21:56:47 | [main] testCases.BaseClass(BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-13 21:56:57 | [main] testCases.BaseClass(BaseClass.java:53) - URL is opened
+INFO  | 2020-09-13 21:56:59 | [main] testCases.BaseClass(BaseClass.java:55) - Browser is maximised
+INFO  | 2020-09-13 21:56:59 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:17) - Username is provided
+INFO  | 2020-09-13 21:56:59 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:19) - Password is provided
+INFO  | 2020-09-13 21:57:06 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:21) - Login Successful
+INFO  | 2020-09-13 21:57:13 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:24) - Delete Customer page is opened
+INFO  | 2020-09-13 21:57:13 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:26) - Customer ID is provided
+INFO  | 2020-09-13 21:57:17 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:30) - alert is accepted
+INFO  | 2020-09-13 21:57:20 | [main] testCases.BaseClass(BaseClass.java:62) - Browser closed successfully
+INFO  | 2020-09-13 21:58:25 | [main] testCases.BaseClass(BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-13 21:58:38 | [main] testCases.BaseClass(BaseClass.java:53) - URL is opened
+INFO  | 2020-09-13 21:58:40 | [main] testCases.BaseClass(BaseClass.java:55) - Browser is maximised
+INFO  | 2020-09-13 21:58:40 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:17) - Username is provided
+INFO  | 2020-09-13 21:58:41 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:19) - Password is provided
+INFO  | 2020-09-13 21:58:43 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:21) - Login Successful
+INFO  | 2020-09-13 21:58:45 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:24) - Delete Customer page is opened
+INFO  | 2020-09-13 21:58:45 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:26) - Customer ID is provided
+INFO  | 2020-09-13 21:58:48 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:30) - alert is accepted
+WARN  | 2020-09-13 21:58:51 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:38) - customer delete test failed..
+INFO  | 2020-09-13 21:58:51 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:39) - Screenshot taken
+INFO  | 2020-09-13 21:58:52 | [main] testCases.BaseClass(BaseClass.java:62) - Browser closed successfully
+INFO  | 2020-09-13 22:06:28 | [main] testCases.BaseClass(BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-13 22:07:42 | [main] testCases.BaseClass(BaseClass.java:53) - URL is opened
+INFO  | 2020-09-13 22:08:03 | [main] testCases.BaseClass(BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-13 22:09:32 | [main] testCases.BaseClass(BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-13 22:09:38 | [main] testCases.BaseClass(BaseClass.java:53) - URL is opened
+INFO  | 2020-09-13 22:09:41 | [main] testCases.BaseClass(BaseClass.java:55) - Browser is maximised
+INFO  | 2020-09-13 22:09:41 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:16) - Index page title is checked
+INFO  | 2020-09-13 22:09:42 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:25) - Username is entered
+INFO  | 2020-09-13 22:09:42 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:28) - Password is entered
+WARN  | 2020-09-13 22:09:45 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:36) - Login Test is failed
+INFO  | 2020-09-13 22:09:46 | [main] testCases.TC_LoginTest_001(TC_LoginTest_001.java:38) - Screenshot taken
+INFO  | 2020-09-13 22:09:48 | [main] testCases.BaseClass(BaseClass.java:62) - Browser closed successfully
+INFO  | 2020-09-13 22:11:25 | [main] testCases.BaseClass(BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-13 22:11:31 | [main] testCases.BaseClass(BaseClass.java:53) - URL is opened
+INFO  | 2020-09-13 22:11:33 | [main] testCases.BaseClass(BaseClass.java:55) - Browser is maximised
+INFO  | 2020-09-13 22:11:33 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:17) - Username is provided
+INFO  | 2020-09-13 22:11:33 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:19) - Password is provided
+INFO  | 2020-09-13 22:11:36 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:21) - Login Successful
+INFO  | 2020-09-13 22:11:37 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:24) - Delete Customer page is opened
+INFO  | 2020-09-13 22:11:37 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:26) - Customer ID is provided
+INFO  | 2020-09-13 22:11:37 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:31) - alert is accepted
+WARN  | 2020-09-13 22:11:37 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:37) - customer delete test failed..
+INFO  | 2020-09-13 22:11:39 | [main] testCases.BaseClass(BaseClass.java:62) - Browser closed successfully
+INFO  | 2020-09-13 22:16:51 | [main] testCases.BaseClass(BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-13 22:17:07 | [main] testCases.BaseClass(BaseClass.java:53) - URL is opened
+INFO  | 2020-09-13 22:17:09 | [main] testCases.BaseClass(BaseClass.java:55) - Browser is maximised
+INFO  | 2020-09-13 22:17:10 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:17) - Username is provided
+INFO  | 2020-09-13 22:17:10 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:19) - Password is provided
+INFO  | 2020-09-13 22:17:13 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:21) - Login Successful
+INFO  | 2020-09-13 22:17:14 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:24) - Delete Customer page is opened
+INFO  | 2020-09-13 22:17:14 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:26) - Customer ID is provided
+INFO  | 2020-09-13 22:17:15 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:31) - alert is accepted
+WARN  | 2020-09-13 22:17:15 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:37) - customer delete test failed..
+INFO  | 2020-09-13 22:17:17 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:40) - Screenshot taken
+INFO  | 2020-09-13 22:17:18 | [main] testCases.BaseClass(BaseClass.java:62) - Browser closed successfully
+INFO  | 2020-09-13 22:19:44 | [main] testCases.BaseClass(BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-13 22:19:49 | [main] testCases.BaseClass(BaseClass.java:53) - URL is opened
+INFO  | 2020-09-13 22:19:51 | [main] testCases.BaseClass(BaseClass.java:55) - Browser is maximised
+INFO  | 2020-09-13 22:19:52 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:17) - Username is provided
+INFO  | 2020-09-13 22:19:52 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:19) - Password is provided
+INFO  | 2020-09-13 22:19:53 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:21) - Login Successful
+INFO  | 2020-09-13 22:19:55 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:24) - Delete Customer page is opened
+INFO  | 2020-09-13 22:19:57 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:26) - Customer ID is provided
+INFO  | 2020-09-13 22:19:57 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:31) - alert is accepted
+WARN  | 2020-09-13 22:20:05 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:37) - customer delete test failed with warning message: Customer does not exist!!
+INFO  | 2020-09-13 22:20:07 | [main] testCases.TC_DeleteCustomerTest_001(TC_DeleteCustomerTest_001.java:40) - Screenshot taken
+INFO  | 2020-09-13 22:20:08 | [main] testCases.BaseClass(BaseClass.java:62) - Browser closed successfully
