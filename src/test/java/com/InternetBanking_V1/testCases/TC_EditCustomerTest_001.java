@@ -9,6 +9,8 @@ import com.InternetBanking_V1.pageObjects.LoginPage;
 
 public class TC_EditCustomerTest_001 extends BaseClass {
 
+	public String customerIdcode = readConfig.getCustomerId();
+	
 	@Test
 	public void editCustomerTest() throws Exception {
 		LoginPage lp = new LoginPage(driver);

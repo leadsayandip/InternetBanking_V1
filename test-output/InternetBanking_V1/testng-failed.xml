@@ -8,33 +8,13 @@
   <test name="BankingApp Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.InternetBanking_V1.testCases.TC_LoginTest_001">
-        <methods>
-          <include name="LoginTest"/>
-          <include name="setUp"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- com.InternetBanking_V1.testCases.TC_LoginTest_001 -->
-      <class name="com.InternetBanking_V1.testCases.TC_AddCustomerTest_001">
+      <class name="com.InternetBanking_V1.testCases.TC_EditAccountTest_001">
         <methods>
           <include name="setUp"/>
           <include name="tearDown"/>
+          <include name="editAccountTest"/>
         </methods>
-      </class> <!-- com.InternetBanking_V1.testCases.TC_AddCustomerTest_001 -->
-      <class name="com.InternetBanking_V1.testCases.TC_DeleteCustomerTest_001">
-        <methods>
-          <include name="setUp"/>
-          <include name="tearDown"/>
-          <include name="deleteCustomerTest"/>
-        </methods>
-      </class> <!-- com.InternetBanking_V1.testCases.TC_DeleteCustomerTest_001 -->
-      <class name="com.InternetBanking_V1.testCases.TC_EditCustomerTest_001">
-        <methods>
-          <include name="editCustomerTest"/>
-          <include name="setUp"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- com.InternetBanking_V1.testCases.TC_EditCustomerTest_001 -->
+      </class> <!-- com.InternetBanking_V1.testCases.TC_EditAccountTest_001 -->
     </classes>
   </test> <!-- BankingApp Test(failed) -->
 </suite> <!-- Failed suite [InternetBanking_V1] -->

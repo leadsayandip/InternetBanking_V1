@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>BankingApp Test</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>4/0/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>0/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Mon Sep 14 21:45:05 IST 2020</td>
+<td>Started on:</td><td>Wed Sep 16 00:56:56 IST 2020</td>
 </tr>
-<tr><td>Total time:</td><td>270 seconds (270098 ms)</td>
+<tr><td>Total time:</td><td>31 seconds (31582 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -67,33 +67,64 @@ function toggleAllBoxes() {
 </tr>
 </table><p/>
 <small><i>(Hover the method name to see the test class name)</i></small><p/>
-<table width='100%' border='1' class='invocation-passed'>
-<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
 <tr><td><b>Test method</b></td>
 <td width="30%"><b>Exception</b></td>
 <td width="10%"><b>Time (seconds)</b></td>
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='com.InternetBanking_V1.testCases.TC_LoginTest_001.LoginTest()'><b>LoginTest</b><br>Test class: com.InternetBanking_V1.testCases.TC_LoginTest_001</td>
-<td></td>
-<td>7</td>
-<td>com.InternetBanking_V1.testCases.TC_LoginTest_001@1cbf6e72</td></tr>
-<tr>
-<td title='com.InternetBanking_V1.testCases.TC_AddCustomerTest_001.addCustomerTest()'><b>addCustomerTest</b><br>Test class: com.InternetBanking_V1.testCases.TC_AddCustomerTest_001</td>
-<td></td>
-<td>36</td>
-<td>com.InternetBanking_V1.testCases.TC_AddCustomerTest_001@6aecbb8d</td></tr>
-<tr>
-<td title='com.InternetBanking_V1.testCases.TC_DeleteCustomerTest_001.deleteCustomerTest()'><b>deleteCustomerTest</b><br>Test class: com.InternetBanking_V1.testCases.TC_DeleteCustomerTest_001</td>
-<td></td>
-<td>30</td>
-<td>com.InternetBanking_V1.testCases.TC_DeleteCustomerTest_001@4da602fc</td></tr>
-<tr>
-<td title='com.InternetBanking_V1.testCases.TC_EditCustomerTest_001.editCustomerTest()'><b>editCustomerTest</b><br>Test class: com.InternetBanking_V1.testCases.TC_EditCustomerTest_001</td>
-<td></td>
-<td>45</td>
-<td>com.InternetBanking_V1.testCases.TC_EditCustomerTest_001@1af146</td></tr>
+<td title='com.InternetBanking_V1.testCases.TC_AddNewAccountTest_001.addNewAccountTest()'><b>addNewAccountTest</b><br>Test class: com.InternetBanking_V1.testCases.TC_AddNewAccountTest_001</td>
+<td><div><pre>java.lang.NullPointerException
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy27.sendKeys(Unknown Source)
+	at com.InternetBanking_V1.pageObjects.LoginPage.setUsername(LoginPage.java:37)
+	at com.InternetBanking_V1.testCases.TC_AddNewAccountTest_001.addNewAccountTest(TC_AddNewAccountTest_001.java:18)
+	at java.util.ArrayList.forEach(Unknown Source)
+... Removed 31 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1047477166", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1047477166'><pre>java.lang.NullPointerException
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy27.sendKeys(Unknown Source)
+	at com.InternetBanking_V1.pageObjects.LoginPage.setUsername(LoginPage.java:37)
+	at com.InternetBanking_V1.testCases.TC_AddNewAccountTest_001.addNewAccountTest(TC_AddNewAccountTest_001.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at org.testng.TestRunner.privateRun(TestRunner.java:766)
+	at org.testng.TestRunner.run(TestRunner.java:587)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1109)
+	at org.testng.TestNG.runSuites(TestNG.java:1039)
+	at org.testng.TestNG.run(TestNG.java:1007)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:284)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:119)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:428)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:562)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:548)
+</pre></div></td>
+<td>0</td>
+<td>com.InternetBanking_V1.testCases.TC_AddNewAccountTest_001@4988d8b8</td></tr>
 </table><p>
 </body>
 </html>

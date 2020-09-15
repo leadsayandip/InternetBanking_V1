@@ -18,6 +18,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 
+import com.InternetBanking_V1.pageObjects.LoginPage;
 import com.InternetBanking_V1.utilities.ReadConfig;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
@@ -28,8 +29,7 @@ public class BaseClass {
 	public String baseURL = readConfig.getBaseURL();
 	public String userName = readConfig.getUsername();
 	public String password = readConfig.getpassword();
-	public String customerIdcode = readConfig.getCustomerId();
-	public String deletecustomerIdcode = readConfig.getdeleteCustomerId();
+
 	public static WebDriver driver;
 
 	public static Logger logger = LogManager.getLogger(BaseClass.class);
@@ -54,6 +54,15 @@ public class BaseClass {
 		driver.manage().window().maximize();
 		logger.info("Browser is maximised");
 
+		LoginPage lp = new LoginPage(driver);
+
+		lp.setUsername(userName);
+		logger.info("Userid given");
+		lp.setPassword(password);
+		logger.info("Password given");
+		lp.clickLogin();
+		logger.info("Login Successful");
+
 	}
 
 	@AfterClass
@@ -77,18 +86,18 @@ public class BaseClass {
 			return false;
 		}
 	}
-	
-	public String randomString(){
+
+	public String randomString() {
 		String randomEmail = RandomStringUtils.randomAlphabetic(8);
 		return randomEmail;
 	}
-	
-	public String randomNumber(){
+
+	public String randomNumber() {
 		String randomNumber = RandomStringUtils.randomNumeric(9);
 		return randomNumber;
 	}
-	
-	public String randompassword(){
+
+	public String randompassword() {
 		String randompwd = RandomStringUtils.randomAlphanumeric(6);
 		return randompwd;
 	}
