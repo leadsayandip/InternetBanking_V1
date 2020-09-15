@@ -11,6 +11,7 @@
 			<class name="com.InternetBanking_V1.testCases.TC_AddCustomerTest_001" />
 			<class name="com.InternetBanking_V1.testCases.TC_EditCustomerTest_001" />
 			<class name="com.InternetBanking_V1.testCases.TC_DeleteCustomerTest_001" />
+			<class name="com.InternetBanking_V1.testCases.TC_AddNewAccountTest_001" />
 		</classes>
 	</test> <!-- BankingApp Test -->
 </suite> <!-- InternetBanking_V1 -->
