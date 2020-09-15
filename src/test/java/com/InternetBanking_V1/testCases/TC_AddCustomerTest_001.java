@@ -4,21 +4,12 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import com.InternetBanking_V1.pageObjects.AddCustomerPage;
-import com.InternetBanking_V1.pageObjects.LoginPage;
 
 public class TC_AddCustomerTest_001 extends BaseClass {
 
 	@Test
 	public void addCustomerTest() throws Exception {
-
-		LoginPage lp = new LoginPage(driver);
-		lp.setUsername(userName);
-		logger.info("Userid given");
-		lp.setPassword(password);
-		logger.info("Password given");
-		lp.clickLogin();
-		logger.info("Login Successful");
-
+		
 		AddCustomerPage cp = new AddCustomerPage(driver);
 		cp.clickAddCustomer();
 		logger.info("Customer details is provided...");

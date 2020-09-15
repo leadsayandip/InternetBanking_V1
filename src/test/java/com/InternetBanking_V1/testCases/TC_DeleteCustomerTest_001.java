@@ -7,6 +7,8 @@ import com.InternetBanking_V1.pageObjects.DeleteCustomerPage;
 import com.InternetBanking_V1.pageObjects.LoginPage;
 
 public class TC_DeleteCustomerTest_001 extends BaseClass {
+	
+	public String deletecustomerIdcode = readConfig.getdeleteCustomerId();
 
 	@Test
 	public void deleteCustomerTest() throws Exception {

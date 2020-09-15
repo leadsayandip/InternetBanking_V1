@@ -23,7 +23,7 @@
     <div class="top-banner-root">
       <span class="top-banner-title-font">Test results</span>
       <br/>
-      <span class="top-banner-font-1">1 suite, 3 failed tests</span>
+      <span class="top-banner-font-1">1 suite</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -37,7 +37,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" class="navigator-link" panel-name="suite-InternetBanking_V1">
-              <span class="suite-name border-failed">InternetBanking_V1</span>
+              <span class="suite-name border-passed">InternetBanking_V1</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -48,7 +48,7 @@
               <ul>
                 <li>
                   <a href="#" class="navigator-link " panel-name="test-xml-InternetBanking_V1">
-                    <span>C:\Users\WECARE INDUSTRIES\workspace\InternetBanking_V1\testng.xml</span>
+                    <span>C:\Users\WECARE INDUSTRIES\git\InternetBanking_V1\testng.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -90,31 +90,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">4 methods, 3 failed,   1 passed</span>
-                  </li>
-                  <li>
-                    <span class="method-list-title failed">Failed methods</span>
-                    <span class="show-or-hide-methods failed">
-                      <a href="#" panel-name="suite-InternetBanking_V1" class="hide-methods failed suite-InternetBanking_V1"> (hide)</a> <!-- hide-methods failed suite-InternetBanking_V1 -->
-                      <a href="#" panel-name="suite-InternetBanking_V1" class="show-methods failed suite-InternetBanking_V1"> (show)</a> <!-- show-methods failed suite-InternetBanking_V1 -->
-                    </span>
-                    <div class="method-list-content failed suite-InternetBanking_V1">
-                      <span>
-                        <img width="3%" src="failed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-InternetBanking_V1" title="com.InternetBanking_V1.testCases.TC_LoginTest_001" hash-for-method="LoginTest">LoginTest</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="failed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-InternetBanking_V1" title="com.InternetBanking_V1.testCases.TC_DeleteCustomerTest_001" hash-for-method="deleteCustomerTest">deleteCustomerTest</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="failed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-InternetBanking_V1" title="com.InternetBanking_V1.testCases.TC_EditCustomerTest_001" hash-for-method="editCustomerTest">editCustomerTest</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                    </div> <!-- method-list-content failed suite-InternetBanking_V1 -->
+                    <span class="method-stats">1 method,   1 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -125,7 +101,7 @@
                     <div class="method-list-content passed suite-InternetBanking_V1">
                       <span>
                         <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-InternetBanking_V1" title="com.InternetBanking_V1.testCases.TC_AddCustomerTest_001" hash-for-method="addCustomerTest">addCustomerTest</a> <!-- method navigator-link -->
+                        <a href="#" class="method navigator-link" panel-name="suite-InternetBanking_V1" title="com.InternetBanking_V1.testCases.TC_EditAccountTest_001" hash-for-method="editAccountTest">editAccountTest</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-InternetBanking_V1 -->
@@ -140,94 +116,17 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-InternetBanking_V1" class="panel InternetBanking_V1">
-          <div class="suite-InternetBanking_V1-class-failed">
-            <div class="main-panel-header rounded-window-top">
-              <img src="failed.png"/>
-              <span class="class-name">com.InternetBanking_V1.testCases.TC_LoginTest_001</span>
-            </div> <!-- main-panel-header rounded-window-top -->
-            <div class="main-panel-content rounded-window-bottom">
-              <div class="method">
-                <div class="method-content">
-                  <a name="LoginTest">
-                  </a> <!-- LoginTest -->
-                  <span class="method-name">LoginTest</span>
-                  <div class="stack-trace">java.lang.AssertionError: expected [true] but found [false]
-	at com.InternetBanking_V1.testCases.TC_LoginTest_001.LoginTest(TC_LoginTest_001.java:40)
-... Removed 28 stack frames
-</div> <!-- stack-trace -->
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-            </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-InternetBanking_V1-class-failed -->
-          <div class="suite-InternetBanking_V1-class-failed">
-            <div class="main-panel-header rounded-window-top">
-              <img src="failed.png"/>
-              <span class="class-name">com.InternetBanking_V1.testCases.TC_EditCustomerTest_001</span>
-            </div> <!-- main-panel-header rounded-window-top -->
-            <div class="main-panel-content rounded-window-bottom">
-              <div class="method">
-                <div class="method-content">
-                  <a name="editCustomerTest">
-                  </a> <!-- editCustomerTest -->
-                  <span class="method-name">editCustomerTest</span>
-                  <div class="stack-trace">org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Customer does not exist!!}
-  (Session info: chrome=85.0.4183.102): Customer does not exist!!
-Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
-System info: host: &apos;WECARE&apos;, ip: &apos;192.168.31.162&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_251&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\WECARE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53797}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 9aa3e5fbf162c0b53a81c735b3462321
-*** Element info: {Using=name, value=addr}
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:120)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByName(RemoteWebDriver.java:404)
-	at org.openqa.selenium.By$ByName.findElement(By.java:284)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-	at com.sun.proxy.$Proxy28.sendKeys(Unknown Source)
-	at com.InternetBanking_V1.pageObjects.AddCustomerPage.customerAddress(AddCustomerPage.java:85)
-	at com.InternetBanking_V1.testCases.TC_EditCustomerTest_001.editCustomerTest(TC_EditCustomerTest_001.java:32)
-... Removed 24 stack frames
-</div> <!-- stack-trace -->
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-            </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-InternetBanking_V1-class-failed -->
-          <div class="suite-InternetBanking_V1-class-failed">
-            <div class="main-panel-header rounded-window-top">
-              <img src="failed.png"/>
-              <span class="class-name">com.InternetBanking_V1.testCases.TC_DeleteCustomerTest_001</span>
-            </div> <!-- main-panel-header rounded-window-top -->
-            <div class="main-panel-content rounded-window-bottom">
-              <div class="method">
-                <div class="method-content">
-                  <a name="deleteCustomerTest">
-                  </a> <!-- deleteCustomerTest -->
-                  <span class="method-name">deleteCustomerTest</span>
-                  <div class="stack-trace">java.lang.AssertionError: expected [true] but found [false]
-	at com.InternetBanking_V1.testCases.TC_DeleteCustomerTest_001.deleteCustomerTest(TC_DeleteCustomerTest_001.java:42)
-... Removed 28 stack frames
-</div> <!-- stack-trace -->
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-            </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-InternetBanking_V1-class-failed -->
           <div class="suite-InternetBanking_V1-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
-              <span class="class-name">com.InternetBanking_V1.testCases.TC_AddCustomerTest_001</span>
+              <span class="class-name">com.InternetBanking_V1.testCases.TC_EditAccountTest_001</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="addCustomerTest">
-                  </a> <!-- addCustomerTest -->
-                  <span class="method-name">addCustomerTest</span>
+                  <a name="editAccountTest">
+                  </a> <!-- editAccountTest -->
+                  <span class="method-name">editAccountTest</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -235,7 +134,7 @@ Session ID: 9aa3e5fbf162c0b53a81c735b3462321
         </div> <!-- panel InternetBanking_V1 -->
         <div panel-name="test-xml-InternetBanking_V1" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">C:\Users\WECARE INDUSTRIES\workspace\InternetBanking_V1\testng.xml</span>
+            <span class="header-content">C:\Users\WECARE INDUSTRIES\git\InternetBanking_V1\testng.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
@@ -248,10 +147,7 @@ Session ID: 9aa3e5fbf162c0b53a81c735b3462321
   &lt;test thread-count=&quot;5&quot; name=&quot;BankingApp Test&quot;&gt;
     &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;com.InternetBanking_V1.testCases.TC_LoginTest_001&quot;/&gt;
-      &lt;class name=&quot;com.InternetBanking_V1.testCases.TC_AddCustomerTest_001&quot;/&gt;
-      &lt;class name=&quot;com.InternetBanking_V1.testCases.TC_EditCustomerTest_001&quot;/&gt;
-      &lt;class name=&quot;com.InternetBanking_V1.testCases.TC_DeleteCustomerTest_001&quot;/&gt;
+      &lt;class name=&quot;com.InternetBanking_V1.testCases.TC_EditAccountTest_001&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- BankingApp Test --&gt;
 &lt;/suite&gt; &lt;!-- InternetBanking_V1 --&gt;
@@ -265,7 +161,7 @@ Session ID: 9aa3e5fbf162c0b53a81c735b3462321
           <div class="main-panel-content rounded-window-bottom">
             <ul>
               <li>
-                <span class="test-name">BankingApp Test (4 classes)</span>
+                <span class="test-name">BankingApp Test (1 class)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -291,28 +187,16 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(4);
+data.addRows(1);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'LoginTest')
-data.setCell(0, 2, 'com.InternetBanking_V1.testCases.TC_LoginTest_001')
-data.setCell(0, 3, 27729);
-data.setCell(1, 0, 1)
-data.setCell(1, 1, 'addCustomerTest')
-data.setCell(1, 2, 'com.InternetBanking_V1.testCases.TC_AddCustomerTest_001')
-data.setCell(1, 3, 22073);
-data.setCell(2, 0, 2)
-data.setCell(2, 1, 'deleteCustomerTest')
-data.setCell(2, 2, 'com.InternetBanking_V1.testCases.TC_DeleteCustomerTest_001')
-data.setCell(2, 3, 15619);
-data.setCell(3, 0, 3)
-data.setCell(3, 1, 'editCustomerTest')
-data.setCell(3, 2, 'com.InternetBanking_V1.testCases.TC_EditCustomerTest_001')
-data.setCell(3, 3, 9495);
+data.setCell(0, 1, 'editAccountTest')
+data.setCell(0, 2, 'com.InternetBanking_V1.testCases.TC_EditAccountTest_001')
+data.setCell(0, 3, 7445);
 window.suiteTableData['InternetBanking_V1']= { tableData: data, tableDiv: 'times-div-InternetBanking_V1'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 1 minutes</span>
+              <span class="suite-total-time">Total running time: 7 seconds</span>
               <div id="times-div-InternetBanking_V1">
               </div> <!-- times-div-InternetBanking_V1 -->
             </div> <!-- times-div -->
@@ -338,69 +222,18 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">com.InternetBanking_V1.testCases.TC_LoginTest_001</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">com.InternetBanking_V1.testCases.TC_EditAccountTest_001</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
                 <span class="method-name">setUp(chrome)</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
-                <img src="failed.png">
-                </img>
-                <span class="method-name">LoginTest</span>
-                <span class="method-start">20858 ms</span>
+                <span class="method-name">editAccountTest</span>
+                <span class="method-start">15094 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">48764 ms</span>
-              </div> <!-- configuration-class after -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">com.InternetBanking_V1.testCases.TC_AddCustomerTest_001</div> <!-- chronological-class-name -->
-              <div class="configuration-class before">
-                <span class="method-name">setUp(chrome)</span>
-                <span class="method-start">49522 ms</span>
-              </div> <!-- configuration-class before -->
-              <div class="test-method">
-                <span class="method-name">addCustomerTest</span>
-                <span class="method-start">62528 ms</span>
-              </div> <!-- test-method -->
-              <div class="configuration-class after">
-                <span class="method-name">tearDown</span>
-                <span class="method-start">84602 ms</span>
-              </div> <!-- configuration-class after -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">com.InternetBanking_V1.testCases.TC_EditCustomerTest_001</div> <!-- chronological-class-name -->
-              <div class="configuration-class before">
-                <span class="method-name">setUp(chrome)</span>
-                <span class="method-start">85571 ms</span>
-              </div> <!-- configuration-class before -->
-              <div class="test-method">
-                <img src="failed.png">
-                </img>
-                <span class="method-name">editCustomerTest</span>
-                <span class="method-start">99560 ms</span>
-              </div> <!-- test-method -->
-              <div class="configuration-class after">
-                <span class="method-name">tearDown</span>
-                <span class="method-start">109057 ms</span>
-              </div> <!-- configuration-class after -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">com.InternetBanking_V1.testCases.TC_DeleteCustomerTest_001</div> <!-- chronological-class-name -->
-              <div class="configuration-class before">
-                <span class="method-name">setUp(chrome)</span>
-                <span class="method-start">110462 ms</span>
-              </div> <!-- configuration-class before -->
-              <div class="test-method">
-                <img src="failed.png">
-                </img>
-                <span class="method-name">deleteCustomerTest</span>
-                <span class="method-start">121617 ms</span>
-              </div> <!-- test-method -->
-              <div class="configuration-class after">
-                <span class="method-name">tearDown</span>
-                <span class="method-start">137238 ms</span>
+                <span class="method-start">22686 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
