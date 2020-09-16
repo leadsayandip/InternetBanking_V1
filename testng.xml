@@ -8,7 +8,13 @@
 	</listeners>
 	
 	<test name="BankingApp Test">
-		<parameter name="browser" value="chrome" />
+			<parameter name="browser" value="chrome" />
+		<!-- groups>
+			<run>
+				<exclude name = "sanity"/>
+			</run>
+		</groups-->
+		
 		<classes>
 			<!--class name="com.InternetBanking_V1.testCases.TC_LoginTest_001"/>
 			<class name="com.InternetBanking_V1.testCases.TC_AddCustomerTest_001" />
@@ -19,5 +25,10 @@
 			<class name="com.InternetBanking_V1.testCases.TC_EditAccountTest_001" /-->	
 			<class name="com.InternetBanking_V1.testCases.TC_DepositAmountTest_001" />		
 		</classes>
-	</test> <!-- BankingApp Test -->
-</suite> <!-- InternetBanking_V1 -->
+		
+		<!-- packages>
+      			<package name="com.InternetBanking_V1.testCases" />
+   		</packages -->
+   
+	</test>
+</suite>

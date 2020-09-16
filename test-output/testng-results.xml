@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="InternetBanking_V1" duration-ms="36731" started-at="2020-09-16T08:05:57Z" finished-at="2020-09-16T08:06:34Z">
+  <suite name="InternetBanking_V1" duration-ms="34545" started-at="2020-09-16T17:06:12Z" finished-at="2020-09-16T17:06:47Z">
     <groups>
     </groups>
-    <test name="BankingApp Test" duration-ms="36731" started-at="2020-09-16T08:05:57Z" finished-at="2020-09-16T08:06:34Z">
+    <test name="BankingApp Test" duration-ms="34545" started-at="2020-09-16T17:06:12Z" finished-at="2020-09-16T17:06:47Z">
       <class name="com.InternetBanking_V1.testCases.TC_DepositAmountTest_001">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.InternetBanking_V1.testCases.TC_DepositAmountTest_001@222545dc]" name="setUp" is-config="true" duration-ms="26119" started-at="2020-09-16T13:35:58Z" finished-at="2020-09-16T13:36:24Z">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.InternetBanking_V1.testCases.TC_DepositAmountTest_001@52bf72b5]" name="setUp" is-config="true" duration-ms="24949" started-at="2020-09-16T22:36:13Z" finished-at="2020-09-16T22:36:38Z">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="depositAmountTest()[pri:0, instance:com.InternetBanking_V1.testCases.TC_DepositAmountTest_001@222545dc]" name="depositAmountTest" duration-ms="4841" started-at="2020-09-16T13:36:24Z" finished-at="2020-09-16T13:36:28Z">
+        <test-method status="PASS" signature="depositAmountTestwithValidID()[pri:0, instance:com.InternetBanking_V1.testCases.TC_DepositAmountTest_001@52bf72b5]" name="depositAmountTestwithValidID" duration-ms="5073" started-at="2020-09-16T22:36:38Z" finished-at="2020-09-16T22:36:43Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- depositAmountTest -->
-        <test-method status="PASS" signature="depositAmountTestwithWrongID()[pri:0, instance:com.InternetBanking_V1.testCases.TC_DepositAmountTest_001@222545dc]" name="depositAmountTestwithWrongID" duration-ms="4060" started-at="2020-09-16T13:36:29Z" finished-at="2020-09-16T13:36:33Z">
+        </test-method> <!-- depositAmountTestwithValidID -->
+        <test-method status="PASS" signature="depositAmountTestwithWrongID()[pri:0, instance:com.InternetBanking_V1.testCases.TC_DepositAmountTest_001@52bf72b5]" name="depositAmountTestwithWrongID" duration-ms="2423" started-at="2020-09-16T22:36:44Z" finished-at="2020-09-16T22:36:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- depositAmountTestwithWrongID -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.InternetBanking_V1.testCases.TC_DepositAmountTest_001@222545dc]" name="tearDown" is-config="true" duration-ms="1196" started-at="2020-09-16T13:36:33Z" finished-at="2020-09-16T13:36:34Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.InternetBanking_V1.testCases.TC_DepositAmountTest_001@52bf72b5]" name="tearDown" is-config="true" duration-ms="838" started-at="2020-09-16T22:36:46Z" finished-at="2020-09-16T22:36:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
