@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [InternetBanking_V1]">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [InternetBanking_V1]" parallel="methods">
   <parameter name="browser" value="chrome"/>
   <listeners>
     <listener class-name="com.InternetBanking_V1.utilities.ExtentReportingListener"/>
   </listeners>
-  <test name="BankingApp Test(failed)">
+  <test name="BankingApp Test(failed)" parallel="methods">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.InternetBanking_V1.testCases.TC_EditAccountTest_001">
+      <class name="com.InternetBanking_V1.testCases.TC_DepositAmountTest_001">
         <methods>
           <include name="setUp"/>
           <include name="tearDown"/>
-          <include name="editAccountTest"/>
+          <include name="depositAmountTest"/>
         </methods>
-      </class> <!-- com.InternetBanking_V1.testCases.TC_EditAccountTest_001 -->
+      </class> <!-- com.InternetBanking_V1.testCases.TC_DepositAmountTest_001 -->
     </classes>
   </test> <!-- BankingApp Test(failed) -->
 </suite> <!-- Failed suite [InternetBanking_V1] -->

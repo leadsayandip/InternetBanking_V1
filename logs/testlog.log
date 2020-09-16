@@ -49,3 +49,53 @@ INFO  | 2020-09-16 01:37:33 | [main] testCases.BaseClass(BaseClass.java:65) - Us
 INFO  | 2020-09-16 01:37:34 | [main] testCases.BaseClass(BaseClass.java:67) - Password given
 INFO  | 2020-09-16 01:37:35 | [main] testCases.BaseClass(BaseClass.java:69) - Login Successful
 INFO  | 2020-09-16 01:37:44 | [main] testCases.BaseClass(BaseClass.java:76) - Browser closed successfully
+INFO  | 2020-09-16 13:10:15 | [main] testCases.BaseClass(BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-16 13:10:22 | [main] testCases.BaseClass(BaseClass.java:53) - URL is opened
+INFO  | 2020-09-16 13:10:25 | [main] testCases.BaseClass(BaseClass.java:55) - Browser is maximised
+INFO  | 2020-09-16 13:10:26 | [main] testCases.BaseClass(BaseClass.java:60) - Userid given
+INFO  | 2020-09-16 13:10:26 | [main] testCases.BaseClass(BaseClass.java:62) - Password given
+INFO  | 2020-09-16 13:10:28 | [main] testCases.BaseClass(BaseClass.java:64) - Login Successful
+INFO  | 2020-09-16 13:10:40 | [main] testCases.BaseClass(BaseClass.java:71) - Browser closed successfully
+INFO  | 2020-09-16 13:13:29 | [main] testCases.BaseClass(BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-16 13:14:24 | [main] testCases.BaseClass(BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-16 13:14:29 | [main] testCases.BaseClass(BaseClass.java:53) - URL is opened
+INFO  | 2020-09-16 13:14:31 | [main] testCases.BaseClass(BaseClass.java:55) - Browser is maximised
+INFO  | 2020-09-16 13:14:31 | [main] testCases.BaseClass(BaseClass.java:60) - Userid given
+INFO  | 2020-09-16 13:14:31 | [main] testCases.BaseClass(BaseClass.java:62) - Password given
+INFO  | 2020-09-16 13:14:33 | [main] testCases.BaseClass(BaseClass.java:64) - Login Successful
+INFO  | 2020-09-16 13:14:38 | [main] testCases.BaseClass(BaseClass.java:71) - Browser closed successfully
+INFO  | 2020-09-16 13:24:35 | [main] testCases.BaseClass(BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-16 13:24:39 | [main] testCases.BaseClass(BaseClass.java:53) - URL is opened
+INFO  | 2020-09-16 13:24:41 | [main] testCases.BaseClass(BaseClass.java:55) - Browser is maximised
+INFO  | 2020-09-16 13:24:41 | [main] testCases.BaseClass(BaseClass.java:60) - Userid given
+INFO  | 2020-09-16 13:24:42 | [main] testCases.BaseClass(BaseClass.java:62) - Password given
+INFO  | 2020-09-16 13:24:43 | [main] testCases.BaseClass(BaseClass.java:64) - Login Successful
+INFO  | 2020-09-16 13:25:04 | [main] testCases.BaseClass(BaseClass.java:71) - Browser closed successfully
+INFO  | 2020-09-16 13:30:13 | [pool-2-thread-1] testCases.BaseClass(BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-16 13:30:23 | [pool-2-thread-1] testCases.BaseClass(BaseClass.java:53) - URL is opened
+INFO  | 2020-09-16 13:30:25 | [pool-2-thread-1] testCases.BaseClass(BaseClass.java:55) - Browser is maximised
+INFO  | 2020-09-16 13:30:25 | [pool-2-thread-1] testCases.BaseClass(BaseClass.java:60) - Userid given
+INFO  | 2020-09-16 13:30:25 | [pool-2-thread-1] testCases.BaseClass(BaseClass.java:62) - Password given
+INFO  | 2020-09-16 13:30:28 | [pool-2-thread-1] testCases.BaseClass(BaseClass.java:64) - Login Successful
+INFO  | 2020-09-16 13:30:31 | [pool-2-thread-2] testCases.BaseClass(BaseClass.java:71) - Browser closed successfully
+INFO  | 2020-09-16 13:32:00 | [pool-2-thread-1] testCases.BaseClass(BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-16 13:32:15 | [pool-2-thread-1] testCases.BaseClass(BaseClass.java:53) - URL is opened
+INFO  | 2020-09-16 13:32:18 | [pool-2-thread-1] testCases.BaseClass(BaseClass.java:55) - Browser is maximised
+INFO  | 2020-09-16 13:32:23 | [pool-2-thread-1] testCases.BaseClass(BaseClass.java:60) - Userid given
+INFO  | 2020-09-16 13:32:23 | [pool-2-thread-1] testCases.BaseClass(BaseClass.java:62) - Password given
+INFO  | 2020-09-16 13:32:34 | [pool-2-thread-1] testCases.BaseClass(BaseClass.java:64) - Login Successful
+INFO  | 2020-09-16 13:32:39 | [pool-2-thread-2] testCases.BaseClass(BaseClass.java:71) - Browser closed successfully
+INFO  | 2020-09-16 13:33:53 | [main] testCases.BaseClass(BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-16 13:34:02 | [main] testCases.BaseClass(BaseClass.java:53) - URL is opened
+INFO  | 2020-09-16 13:34:04 | [main] testCases.BaseClass(BaseClass.java:55) - Browser is maximised
+INFO  | 2020-09-16 13:34:05 | [main] testCases.BaseClass(BaseClass.java:60) - Userid given
+INFO  | 2020-09-16 13:34:05 | [main] testCases.BaseClass(BaseClass.java:62) - Password given
+INFO  | 2020-09-16 13:34:07 | [main] testCases.BaseClass(BaseClass.java:64) - Login Successful
+INFO  | 2020-09-16 13:34:18 | [main] testCases.BaseClass(BaseClass.java:71) - Browser closed successfully
+INFO  | 2020-09-16 13:36:04 | [main] testCases.BaseClass(BaseClass.java:50) - chromeBrowser started Successfully
+INFO  | 2020-09-16 13:36:13 | [main] testCases.BaseClass(BaseClass.java:53) - URL is opened
+INFO  | 2020-09-16 13:36:16 | [main] testCases.BaseClass(BaseClass.java:55) - Browser is maximised
+INFO  | 2020-09-16 13:36:20 | [main] testCases.BaseClass(BaseClass.java:60) - Userid given
+INFO  | 2020-09-16 13:36:21 | [main] testCases.BaseClass(BaseClass.java:62) - Password given
+INFO  | 2020-09-16 13:36:24 | [main] testCases.BaseClass(BaseClass.java:64) - Login Successful
+INFO  | 2020-09-16 13:36:34 | [main] testCases.BaseClass(BaseClass.java:71) - Browser closed successfully

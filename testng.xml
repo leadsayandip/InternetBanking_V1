@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" name="InternetBanking_V1">
+
 	<listeners>
-		<listener class-name="com.InternetBanking_V1.utilities.ExtentReportingListener"></listener>
+		<listener class-name="com.InternetBanking_V1.utilities.ExtentReportingListener">
+		</listener>
 	</listeners>
-	<test thread-count="5" name="BankingApp Test">
+	
+	<test name="BankingApp Test">
 		<parameter name="browser" value="chrome" />
 		<classes>
 			<!--class name="com.InternetBanking_V1.testCases.TC_LoginTest_001"/>
@@ -12,8 +15,9 @@
 			<class name="com.InternetBanking_V1.testCases.TC_EditCustomerTest_001" />
 			<class name="com.InternetBanking_V1.testCases.TC_DeleteCustomerTest_001" />
 			<class name="com.InternetBanking_V1.testCases.TC_AddNewAccountTest_001" />
-			<class name="com.InternetBanking_V1.testCases.TC_AddNewAccountTest_001" /-->
-			<class name="com.InternetBanking_V1.testCases.TC_EditAccountTest_001" />			
+			<class name="com.InternetBanking_V1.testCases.TC_AddNewAccountTest_001" />
+			<class name="com.InternetBanking_V1.testCases.TC_EditAccountTest_001" /-->	
+			<class name="com.InternetBanking_V1.testCases.TC_DepositAmountTest_001" />		
 		</classes>
 	</test> <!-- BankingApp Test -->
 </suite> <!-- InternetBanking_V1 -->
