@@ -41,41 +41,34 @@ public class ReadConfig {
 		String custId = prop.getProperty("newAccountId");
 		return custId;
 	}
+
 	public String getdeleteCustomerId() {
 		String custId = prop.getProperty("deletecustomerIdcode");
 		return custId;
 	}
+
 	public String depositAmount() {
 		String amnt = prop.getProperty("amount");
 		return amnt;
 	}
+
 	public String accType() {
 		String type = prop.getProperty("accounttype");
 		return type;
 	}
+
 	public String editAccNo() {
 		String atype = prop.getProperty("accountNumber");
 		return atype;
 	}
+
 	public String accTypeChange() {
 		String ctype = prop.getProperty("accounttypechange");
 		return ctype;
 	}
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	public String depositAcc(){
+		String depoAcc = prop.getProperty("amountdepositAccID");
+		return depoAcc;
+	}
 }

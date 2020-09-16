@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="InternetBanking_V1" duration-ms="24317" started-at="2020-09-15T20:07:19Z" finished-at="2020-09-15T20:07:44Z">
+  <suite name="InternetBanking_V1" duration-ms="36731" started-at="2020-09-16T08:05:57Z" finished-at="2020-09-16T08:06:34Z">
     <groups>
     </groups>
-    <test name="BankingApp Test" duration-ms="24317" started-at="2020-09-15T20:07:19Z" finished-at="2020-09-15T20:07:44Z">
-      <class name="com.InternetBanking_V1.testCases.TC_EditAccountTest_001">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.InternetBanking_V1.testCases.TC_EditAccountTest_001@222545dc]" name="setUp" is-config="true" duration-ms="15090" started-at="2020-09-16T01:37:20Z" finished-at="2020-09-16T01:37:35Z">
+    <test name="BankingApp Test" duration-ms="36731" started-at="2020-09-16T08:05:57Z" finished-at="2020-09-16T08:06:34Z">
+      <class name="com.InternetBanking_V1.testCases.TC_DepositAmountTest_001">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.InternetBanking_V1.testCases.TC_DepositAmountTest_001@222545dc]" name="setUp" is-config="true" duration-ms="26119" started-at="2020-09-16T13:35:58Z" finished-at="2020-09-16T13:36:24Z">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="editAccountTest()[pri:0, instance:com.InternetBanking_V1.testCases.TC_EditAccountTest_001@222545dc]" name="editAccountTest" duration-ms="7445" started-at="2020-09-16T01:37:35Z" finished-at="2020-09-16T01:37:42Z">
+        <test-method status="PASS" signature="depositAmountTest()[pri:0, instance:com.InternetBanking_V1.testCases.TC_DepositAmountTest_001@222545dc]" name="depositAmountTest" duration-ms="4841" started-at="2020-09-16T13:36:24Z" finished-at="2020-09-16T13:36:28Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- editAccountTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.InternetBanking_V1.testCases.TC_EditAccountTest_001@222545dc]" name="tearDown" is-config="true" duration-ms="1255" started-at="2020-09-16T01:37:42Z" finished-at="2020-09-16T01:37:44Z">
+        </test-method> <!-- depositAmountTest -->
+        <test-method status="PASS" signature="depositAmountTestwithWrongID()[pri:0, instance:com.InternetBanking_V1.testCases.TC_DepositAmountTest_001@222545dc]" name="depositAmountTestwithWrongID" duration-ms="4060" started-at="2020-09-16T13:36:29Z" finished-at="2020-09-16T13:36:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- depositAmountTestwithWrongID -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.InternetBanking_V1.testCases.TC_DepositAmountTest_001@222545dc]" name="tearDown" is-config="true" duration-ms="1196" started-at="2020-09-16T13:36:33Z" finished-at="2020-09-16T13:36:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.InternetBanking_V1.testCases.TC_EditAccountTest_001 -->
+      </class> <!-- com.InternetBanking_V1.testCases.TC_DepositAmountTest_001 -->
     </test> <!-- BankingApp Test -->
   </suite> <!-- InternetBanking_V1 -->
 </testng-results>
