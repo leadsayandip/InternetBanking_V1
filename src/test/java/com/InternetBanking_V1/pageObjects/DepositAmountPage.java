@@ -1,6 +1,5 @@
 package com.InternetBanking_V1.pageObjects;
 
-import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
@@ -37,7 +36,7 @@ public class DepositAmountPage {
 	WebElement clickSubmit;
 
 	public void depositAmount() {
-		clickDeposit.sendKeys(Keys.ENTER);
+		clickDeposit.click();
 	}
 
 	public void depositAccount(String accid) {
