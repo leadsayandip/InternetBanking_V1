@@ -8,14 +8,13 @@
   <test name="BankingApp Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.InternetBanking_V1.testCases.TC_DepositAmountTest_001">
+      <class name="com.InternetBanking_V1.testCases.TC_WithdrawAmountTest_008">
         <methods>
-          <include name="depositAmountTestwithValidID"/>
           <include name="setUp"/>
+          <include name="withdrawAmountwithValidId"/>
           <include name="tearDown"/>
-          <include name="depositAmountTestwithWrongID"/>
         </methods>
-      </class> <!-- com.InternetBanking_V1.testCases.TC_DepositAmountTest_001 -->
+      </class> <!-- com.InternetBanking_V1.testCases.TC_WithdrawAmountTest_008 -->
     </classes>
   </test> <!-- BankingApp Test(failed) -->
 </suite> <!-- Failed suite [InternetBanking_V1] -->
