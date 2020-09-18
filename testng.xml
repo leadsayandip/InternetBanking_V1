@@ -22,8 +22,9 @@
 			<class name="com.InternetBanking_V1.testCases.TC_DeleteCustomerTest_001" />
 			<class name="com.InternetBanking_V1.testCases.TC_AddNewAccountTest_001" />
 			<class name="com.InternetBanking_V1.testCases.TC_AddNewAccountTest_001" />
-			<class name="com.InternetBanking_V1.testCases.TC_EditAccountTest_001" /-->	
-			<class name="com.InternetBanking_V1.testCases.TC_DepositAmountTest_001" />		
+			<class name="com.InternetBanking_V1.testCases.TC_EditAccountTest_001" />	
+			<class name="com.InternetBanking_V1.testCases.TC_DepositAmountTest_001" /-->	
+			<class name="com.InternetBanking_V1.testCases.TC_WithdrawAmountTest_008" />		
 		</classes>
 		
 		<!-- packages>

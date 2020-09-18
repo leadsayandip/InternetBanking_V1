@@ -29,7 +29,7 @@ public class TC_LoginTest_001 extends BaseClass {
 		logger.info("Password is entered");
 
 		lp.clickLogin();
-		Thread.sleep(3000);
+		
 		if (driver.getTitle().equals("Guru99 Bank Manager HomePage")) {
 			Assert.assertTrue(true);
 			logger.info("Home Page title is checked");

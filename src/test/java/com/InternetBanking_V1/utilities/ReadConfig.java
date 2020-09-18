@@ -71,4 +71,8 @@ public class ReadConfig {
 		String depoAcc = prop.getProperty("amountdepositAccID");
 		return depoAcc;
 	}
+	public String withdrawAcc(){
+		String wAcc = prop.getProperty("amountwithdrawnID");
+		return wAcc;
+	}
 }
